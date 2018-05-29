@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Mapas</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <style type="text/css">
+            body {
+                background: #2c4e6b;
+                width: 100%;
+                height: 100%;
+                margin: 0px;
+                /*overflow: hidden;*/
+                position: absolute;
+            }
+            .plugin_mapas {
+                position: relative;
+            }
+
+            .plugin_mapas img {
+                width: 280px;
+                height: 100px;
+            }
+            .st10{
+                display:inline-block !important;
+            }
+
+            .plugin_mapas .pop {
+                width: 300px;
+                background: white;
+                border-radius: 3px;
+                padding: 10px;
+                position: absolute;
+                opacity: 0.9;
+                display: none; 
+                box-sizing: border-box;
+                margin-top: 10px;
+                font-family: Arial;
+                z-index: 100;
+            }
+
+            .plugin_mapas .pop_cerrar {
+                width: 30px;
+                height: 30px;
+                background: #878787;
+                border-radius: 100%;
+                text-align: center;
+                top: -8px;
+                right: -8px;
+                position: absolute;
+                line-height: 30px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+            .plugin_mapas .pop_cerrar:hover {
+                color: #ccc;
+            }
+
+            .plugin_mapas #repeat {
+                cursor: pointer;
+            }
+
+            .plugin_mapas #repeat>path:first-child:hover {
+                fill: yellow!important;
+            }
+            .st20{
+                fill: #e6a135!important;
+            }
+
+        </style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg-min.js"></script>
+        <script type="text/javascript">
+            function iniciar_mapas(div, callback) {
+                div.mapa = {};
+                var xhr = new XMLHttpRequest();
+                xhr.onload = function (e) {
+                    div.getElementsByClassName("mapa_div")[0].innerHTML = e.target.response;
+                    div.mapa.svg = div.getElementsByTagName("svg")[0];
+                    div.mapa.snap = Snap(div.getElementsByTagName("svg")[0]);
+                    div.mapa.trazos = [];
+                    div.mapa.trazo_num = 0;
+                    var childrens = div.mapa.svg.getElementById("trazos").children;
+                    console.log(childrens);
+                    for (var i = 0; i < childrens.length; i++) {
+                        div.mapa.trazos.push(div.mapa.snap.select("#" + childrens[i].id));
+                    }
+                    div.mapa.avion = div.mapa.snap.select('#avion');
+                    div.mapa.avionbox = div.mapa.avion.getBBox();
+                    div.mapa.barco = div.mapa.snap.select('#barco');
+                    div.mapa.barcobox = div.mapa.barco.getBBox();
+                    div.mapa.persona = div.mapa.snap.select('#persona');
+                    div.mapa.personabox = div.mapa.persona.getBBox();
+                    div.mapa.trazar = function () {
+                        this.trazo = div.mapa.trazos[div.mapa.trazo_num];
+                        this.trazo.attr({
+                            opacity: "0"
+                        });
+                        this.trazo2 = div.mapa.trazos[div.mapa.trazo_num].clone();
+                        this.trazo2.attr({
+                            opacity: "1",
+                            fill: "none",
+                            stroke: "#ffffff", //se cambiara por este azul  #0011cea
+                            strokeWidth: 3,
+                            strokeDasharray: "5 0",
+                            class: ""
+                        });
+                        this.trazo2.addClass("clone");
+                        this.barco.attr({
+                            "display": ""
+                        });
+                        this.trazo_anim = Snap.animate(0, Snap.path.getTotalLength(this.trazo), function (l) {
+                            div.mapa.trazo2.attr({
+                                d: div.mapa.trazo.getSubpath(0, l)
+                            });
+                            points = Snap.path.getPointAtLength(div.mapa.trazo, l);
+                            div.mapa.x = points.x - (div.mapa.barcobox.width / 2);
+                            div.mapa.y = points.y - (div.mapa.barcobox.height / 2);
+                            div.mapa.barco.transform('translate(' + div.mapa.x + ',' + (div.mapa.y) + ') rotate(' + (points.alpha - 180) + ',' + div.mapa.barcobox.cy + ',' + div.mapa.barcobox.cy + +div.mapa.barcobox.cy + ')');
+                        }, 15500, mina.easeout, function (a) {
+                            div.mapa.trazo_num++;
+                            if (div.mapa.trazo_num < div.mapa.trazos.length) {
+                                div.mapa.trazar();
+                            } else {
+                                div.mapa.barco.transform('translate(' + div.mapa.x + ',' + (div.mapa.y) + ') rotate( 0 , ' + div.mapa.barcobox.cx + ', ' + div.mapa.barcobox.cy + ')');
+                            }
+                        });
+                    };
+                    div.mapa.reiniciar = function () {
+                        if (this.trazo_anim != undefined) {
+                            this.trazo_anim.stop();
+                        }
+                        while (div.getElementsByClassName("clone").length != 0) {
+                            div.getElementsByClassName("clone")[0].remove();
+                        }
+                        this.persona.attr({
+                            "display": "none",
+                            "transform": "t0,0"
+                        });
+                        this.barco.attr({
+                            "display": "none",
+                            "transform": "t0,0"
+                        });
+                        this.avion.attr({
+                            "display": "none",
+                            "transform": "t0,0"
+                        });
+                        this.trazo_num = 0;
+                        this.trazar();
+                    };
+                    div.getElementsByClassName("pop_cerrar")[0].onclick = function () {
+                        div.getElementsByClassName("pop")[0].style.display = "none";
+                    };
+                    div.mapa.nuevo_pop = function (a, html) {
+                        div.mapa.svg.getElementById(a).style.cursor = "pointer";
+                        div.mapa.svg.getElementById(a).onclick = function () {
+                            div.getElementsByClassName("pop_contenido")[0].innerHTML = html;
+                            div.getElementsByClassName("pop")[0].style.display = "block";
+                            div.getElementsByClassName("pop")[0].style.left = ((this.getBBox().x + 30) / 12) + "%";
+                            div.getElementsByClassName("pop")[0].style.top = ((this.getBBox().y + 10) / 10) + "%";
+                        };
+                    };
+                    div.mapa.svg.getElementById("repeat").onclick = function () {
+                        div.mapa.reiniciar();
+                    };
+                    div.mapa.reiniciar();
+                    if (callback != undefined) {
+                        callback();
+                    }
+                };
+                xhr.open("GET", div.attributes.src.value);
+                xhr.send();
+                return div.mapa;
+            }
+            ;
+        </script>
+    </head>
+
+    <body>
+        
+        <div id="mapa_17" class="plugin_mapas" src="mapa17.svg" style="width: 80%;margin: auto;">
+            <div class="mapa_div">
+            </div>
+            <div class="pop">
+                <div class="pop_cerrar">X</div>
+                <div class="pop_contenido">
+                    <img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg">
+                    <h3>Ecuador</h3>
+                    <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+
+            var mapa17 = iniciar_mapas(document.getElementById("mapa_17"), function () {
+                mapa17.nuevo_pop("p1", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p2", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p3", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p4", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p5", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p6", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p7", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p8", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p9", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+                mapa17.nuevo_pop("p10", '<img src="https://i.ytimg.com/vi/xQ-5AAkxfu4/maxresdefault.jpg"> <h3>Galapagos</h3> <p>Behind the striking maroon sand beach, a large saltwater lagoon is home to a feeding and breeding area for flamingos.</p><a href="https://es.lipsum.com">Read More</a>');
+            
+           });
+
+        </script>
+    </body>
+</html>
