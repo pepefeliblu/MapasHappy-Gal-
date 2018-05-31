@@ -32,7 +32,7 @@
 </style>
 <g id="fondo">
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-0.13" y1="6397" x2="1201.67" y2="6397" gradientTransform="matrix(1 0 0 -1 3.000000e-02 6898)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-0.13" y1="5897" x2="1201.67" y2="5897" gradientTransform="matrix(1 0 0 -1 3.000000e-02 6398)">
 		<stop  offset="0" style="stop-color:#74BCD8"/>
 		<stop  offset="1" style="stop-color:#CFEBFC"/>
 	</linearGradient>
@@ -165,28 +165,41 @@
 	<text transform="matrix(1 0 0 1 238.5854 649.8345)" class="st2 st3 st4">Isabela</text>
 </g>
 <g id="trazos">
-	<path id="Trazo1-2_1_" class="st8" d="M634.9,490.6C640.2,452,135.2,323.5,114.4,315c-0.5,1.2-0.3,3.9-1.3,3.1
-		c25.9-377.9,831.6,111,768.1,548.1c-28.3-0.6-277.1-57.5-314.5-54c-72.6-53.1-201-268.6-157.8-256.5c1.8,0.5-3.9-0.8-4.9,0.7"/>
+	<path id="Trazo1-2_1_" class="st8" d="M634.9,490.6C761,303.7,35.4,21.6,115.8,317.4c0.4,1.6,2.3,2.4,1.8,4c-0.1,0.5,0.4,0.3,0,0
+		c-19.5-32.3,74.5,146.3,118.5,151.9c46.5-5.4,124.4-90.4,176.1-99.2c-105.1,39.4,30,352.9,193.9,232.1
+		c-12.5,37.6-140.3,82.1-214.1,55.2C540.3,701,456.6,469.6,538.8,536c16-48.9,55.6-64.6,73.6-24.4"/>
+</g>
+<g id="p8" class="st9">
+	<circle id="p4-2" class="st10" cx="611.6" cy="510.6" r="12.5"/>
+	<text transform="matrix(1 0 0 1 606.1003 517.5359)" class="st2 st3 st11">8</text>
 </g>
 <g id="p2" class="st9">
-	<circle id="p4-3" class="st10" cx="113.7" cy="316.6" r="12.5"/>
-	<text transform="matrix(1 0 0 1 108.3817 323.4477)" class="st2 st3 st11">2</text>
+	<circle id="p4-3" class="st10" cx="113.7" cy="324.8" r="12.5"/>
+	<text transform="matrix(1 0 0 1 108.3582 331.6948)" class="st2 st3 st11">2</text>
 </g>
 <g id="p5" class="st9">
-	<circle id="p4-4" class="st10" cx="403.6" cy="556" r="12.5"/>
-	<text transform="matrix(1 0 0 1 398.2299 562.7769)" class="st2 st3 st11">5</text>
+	<circle id="p4-4" class="st10" cx="603.9" cy="605" r="12.5"/>
+	<text transform="matrix(1 0 0 1 598.4527 611.8461)" class="st2 st3 st11">5</text>
+</g>
+<g id="p7" class="st9">
+	<circle id="p4-5" class="st10" cx="540.3" cy="532" r="12.5"/>
+	<text transform="matrix(1 0 0 1 534.8115 538.8284)" class="st2 st3 st11">7</text>
 </g>
 <g id="p4" class="st9">
-	<ellipse id="p4-7" class="st10" cx="562.4" cy="816.5" rx="12.5" ry="12.5"/>
-	<text transform="matrix(1 0 0 1 556.8242 823.2605)" class="st2 st3 st11">4</text>
+	<ellipse id="p4-7" class="st10" cx="407.9" cy="378.5" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 402.3478 385.2781)" class="st2 st3 st11">4</text>
+</g>
+<g id="p6" class="st9">
+	<circle id="p4-8" class="st10" cx="395.4" cy="662.4" r="12.5"/>
+	<text transform="matrix(1 0 0 1 389.8616 669.2524)" class="st2 st3 st11">6</text>
 </g>
 <g id="p3" class="st9">
-	<circle id="p4-9" class="st10" cx="878.9" cy="869.1" r="12.5"/>
-	<text transform="matrix(1 0 0 1 873.5486 876.1135)" class="st2 st3 st11">3</text>
+	<circle id="p4-9" class="st10" cx="233.8" cy="476.3" r="12.5"/>
+	<text transform="matrix(1 0 0 1 228.5034 483.2799)" class="st2 st3 st11">3</text>
 </g>
 <g id="p1" class="st9">
 	<circle class="st10" cx="636.1" cy="488.8" r="12.5"/>
-	<text transform="matrix(1 0 0 1 630.6126 495.5941)" class="st2 st3 st11">1</text>
+	<text transform="matrix(1 0 0 1 630.6433 495.6167)" class="st2 st3 st11">1</text>
 </g>
 <g id="persona">
 	<path class="st12" d="M8.4,17.5H7C6.9,17.8,6.7,18,6.5,18H6.3v1.2h4.9V18H8.9C8.6,18,8.4,17.8,8.4,17.5z"/>
