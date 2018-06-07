@@ -21,7 +21,7 @@
 	.st15{font-size:10px;}
 	.st16{font-size:13px;}
 	.st17{font-size:15px;}
-	.st18{display:none;fill:none;stroke:#F9F8F7;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#F9F8F7;stroke-miterlimit:10;}
 	.st19{opacity:0.8;}
 	.st20{fill:#F59C22;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st21{font-size:21px;}
@@ -42,7 +42,7 @@
 </style>
 <g id="fondo_1_">
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1.83" y1="-5697.6001" x2="1199.97" y2="-5697.6001" gradientTransform="matrix(1 0 0 1 3.000000e-02 6198)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1.83" y1="7197.6001" x2="1199.97" y2="7197.6001" gradientTransform="matrix(1 0 0 -1 3.000000e-02 7698)">
 		<stop  offset="0" style="stop-color:#74BCD8"/>
 		<stop  offset="1" style="stop-color:#CFEBFC"/>
 	</linearGradient>
@@ -384,41 +384,58 @@
 	</g>
 </g>
 <g id="trazos">
-	<path id="Trazo1-2_1_" class="st18" d="M630.2,486.8c15.1-28.2,120-286.1,137-320.5c0.3-1.6,2.3,2.4,1.8,4c-0.1,0.5,0.4,0.3,0,0
-		C701,200,505,404.5,519.9,426.2c1.8-42.7,17.6,115,103.3,140.1c89.3,65.7-313.4,204.8-421.8,31.3c64.2-47.2-30.5-248.2-69-179.5
-		C2,179.2,89,54.3,387.2,417c1.5,49,95.8,96,133.8,66"/>
-</g>
-<g id="p8" class="st19">
-	<circle id="p4-2" class="st20" cx="520.3" cy="482" r="12.5"/>
-	<text transform="matrix(1 0 0 1 514.7601 488.9943)" class="st7 st3 st21">8</text>
+	<path id="Trazo1-2_1_" class="st18" d="M919.2,671.9c26,4.9,39.4,2.6,55.1-21.1c0.2-0.3,0.7,0.2,1.1,0.3c0.4,0,1.2,1.5,1.5,2.8
+		c0.7,0.4,1.1,0.6,1.8,1c21.2,16.3-346.1,193.7-411.6,165.7c-58.7,16.4,333.6,74.4,291.5,53.7c14.4-5.6,33.1-0.4,47.6,11
+		c-19.5-9.8-286.7-303-305.3-320.3c-18.9-41.4,104.8-358,165.9-385.6c-137.4,139.6-221.2,289.8-260,278c0,13.7-33.9,29-48.7,12.2
+		C540,555.4,629.9,304.7,1000,600c-0.7,9.2-54.2,7.1-64,34.7c-6.2,17.5,7.4,39.6,26.7,60.7"/>
 </g>
 <g id="p2" class="st19">
-	<circle id="p4-3" class="st20" cx="765" cy="173.7" r="12.5"/>
-	<text transform="matrix(1 0 0 1 759.6259 180.6042)" class="st7 st3 st21">2</text>
+	<circle id="p4-3" class="st20" cx="971.1" cy="653.1" r="12.5"/>
+	<text transform="matrix(1 0 0 1 965.6927 659.9774)" class="st7 st3 st21">2</text>
 </g>
 <g id="p5" class="st19">
-	<circle id="p4-4" class="st20" cx="199.2" cy="596.4" r="12.5"/>
-	<text transform="matrix(1 0 0 1 193.8125 603.2643)" class="st7 st3 st21">5</text>
-</g>
-<g id="p7" class="st19">
-	<circle id="p4-5" class="st20" cx="388.7" cy="413" r="12.5"/>
-	<text transform="matrix(1 0 0 1 383.205 419.8815)" class="st7 st3 st21">7</text>
-</g>
-<g id="p4" class="st19">
-	<ellipse id="p4-7" class="st20" cx="618.9" cy="570.8" rx="12.5" ry="12.5"/>
-	<text transform="matrix(1 0 0 1 613.3394 577.5008)" class="st7 st3 st21">4</text>
+	<ellipse id="p4-7_1_" class="st20" cx="903.4" cy="878.5" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 897.735 885.2177)" class="st7 st3 st21">5 </text>
 </g>
 <g id="p6" class="st19">
-	<circle id="p4-8" class="st20" cx="135.8" cy="419.2" r="12.5"/>
-	<text transform="matrix(1 0 0 1 130.3031 426.0977)" class="st7 st3 st21">6</text>
+	<ellipse id="p4-7_2_" class="st20" cx="599.1" cy="558.3" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 593.4799 565.0278)" class="st7 st3 st21">6</text>
+</g>
+<g id="p10" class="st19">
+	<ellipse id="p4-7_6_" class="st20" cx="999.6" cy="599.4" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 990.9327 605.1067)" class="st7 st3 st17">10</text>
+</g>
+<g id="p11" class="st19">
+	<ellipse id="p4-7_7_" class="st20" cx="934.9" cy="634" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 926.2802 639.7557)" class="st7 st3 st17">11</text>
+</g>
+<g id="p12" class="st19">
+	<ellipse id="p4-7_8_" class="st20" cx="959.7" cy="691.5" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 951.0725 697.1976)" class="st7 st3 st17">12</text>
+</g>
+<g id="p9" class="st19">
+	<ellipse id="p4-7_5_" class="st20" cx="458.1" cy="472.4" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 452.4883 479.1183)" class="st7 st3 st21">9</text>
+</g>
+<g id="p8" class="st19">
+	<ellipse id="p4-7_4_" class="st20" cx="506.8" cy="458.6" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 501.1767 465.3332)" class="st7 st3 st21">8</text>
+</g>
+<g id="p7" class="st19">
+	<ellipse id="p4-7_3_" class="st20" cx="765" cy="173.7" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 759.3861 180.4628)" class="st7 st3 st21">7</text>
+</g>
+<g id="p4" class="st19">
+	<ellipse id="p4-7" class="st20" cx="856.4" cy="868.4" rx="12.5" ry="12.5"/>
+	<text transform="matrix(1 0 0 1 850.7596 875.1067)" class="st7 st3 st21">4</text>
 </g>
 <g id="p3" class="st19">
-	<circle id="p4-9" class="st20" cx="517.5" cy="429.3" r="12.5"/>
-	<text transform="matrix(1 0 0 1 512.1726 436.2274)" class="st7 st3 st21">3</text>
+	<circle id="p4-9" class="st20" cx="565.2" cy="814.6" r="12.5"/>
+	<text transform="matrix(1 0 0 1 559.8725 821.5312)" class="st7 st3 st21">3</text>
 </g>
 <g id="p1" class="st19">
-	<circle class="st20" cx="631.4" cy="485" r="12.5"/>
-	<text transform="matrix(1 0 0 1 625.9309 491.7978)" class="st7 st3 st21">1</text>
+	<circle class="st20" cx="920.4" cy="670.1" r="12.5"/>
+	<text transform="matrix(1 0 0 1 914.9609 676.8289)" class="st7 st3 st21">1</text>
 </g>
 <g id="persona">
 	<path class="st22" d="M8.4,17.5H7C6.9,17.8,6.7,18,6.5,18H6.3v1.2h4.9V18H8.9C8.6,18,8.4,17.8,8.4,17.5z"/>
@@ -559,4 +576,5 @@
 		c-3.8,0-7.7,0-11.5,0c-2.8,0-2.8,4.3,0,4.3c4.4,0,8.8,0,13.3,0c1.6,0,3.2,0,4.8,0c3.7,0,6.7-3.1,6.7-6.8
 		C1173.6,40.7,1174.9,33.4,1168.5,31.6z"/>
 </g>
+<path class="st7" d="M837.5,727.8"/>
 </svg>
