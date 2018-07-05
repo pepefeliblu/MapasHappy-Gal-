@@ -10,47 +10,44 @@
 	.st4{font-size:16px;}
 	.st5{font-size:27.61px;}
 	.st6{fill:none;stroke:#231F20;stroke-width:0.75;stroke-miterlimit:10;}
-	.st7{fill:#FFFFFF;}
-	.st8{font-size:20.12px;}
-	.st9{font-size:64.21px;}
-	.st10{font-size:14px;}
-	.st11{font-size:12px;}
-	.st12{font-size:11.5762px;}
-	.st13{fill:#F9F9F9;}
-	.st14{fill:#FCFCFC;}
-	.st15{font-size:10px;}
-	.st16{font-size:13px;}
-	.st17{font-size:15px;}
-	.st18{clip-path:url(#SVGID_3_);fill:#5A98D3;}
-	.st19{fill:#E2AE3F;}
-	.st20{fill:#C22B2C;}
-	.st21{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st22{opacity:0.8;}
-	.st23{fill:#F59C22;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st24{font-size:14.7px;}
-	.st25{font-size:10.5px;}
-	.st26{fill:#39C8C6;}
-	.st27{fill:#D3500C;}
-	.st28{fill:#F7D0BC;}
-	.st29{fill:#FFB13A;}
-	.st30{fill:#460929;}
-	.st31{fill:#D88F2D;}
-	.st32{fill:#FFFFFF;stroke:#F9F7F4;stroke-width:0.75;stroke-miterlimit:10;}
-	.st33{fill:#FAA522;}
-	.st34{fill:#3A568E;}
-	.st35{fill:#4C70B7;}
-	.st36{fill:#FFF8A5;}
-	.st37{fill:#F58225;}
-	.st38{fill:#2E4575;}
-	.st39{fill:#357180;}
+	.st7{font-size:64.21px;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-size:14px;}
+	.st10{font-size:12px;}
+	.st11{fill:#F9F9F9;}
+	.st12{font-size:10px;}
+	.st13{font-size:13px;}
+	.st14{font-size:15px;}
+	.st15{clip-path:url(#SVGID_3_);fill:#5A98D3;}
+	.st16{fill:#E2AE3F;}
+	.st17{fill:#C22B2C;}
+	.st18{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st19{opacity:0.8;}
+	.st20{fill:#F59C22;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st21{font-size:14.7px;}
+	.st22{font-size:10.5px;}
+	.st23{fill:#39C8C6;}
+	.st24{fill:#D3500C;}
+	.st25{fill:#F7D0BC;}
+	.st26{fill:#FFB13A;}
+	.st27{fill:#460929;}
+	.st28{fill:#D88F2D;}
+	.st29{fill:#FFFFFF;stroke:#F9F7F4;stroke-width:0.75;stroke-miterlimit:10;}
+	.st30{fill:#FAA522;}
+	.st31{fill:#3A568E;}
+	.st32{fill:#4C70B7;}
+	.st33{fill:#FFF8A5;}
+	.st34{fill:#F58225;}
+	.st35{fill:#2E4575;}
+	.st36{fill:#357180;}
 </style>
 <g id="fondo_1_">
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1.23" y1="-6518" x2="1200.5701" y2="-6518" gradientTransform="matrix(1 0 0 1 3.000000e-02 7018)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1.23" y1="7518" x2="1200.5701" y2="7518" gradientTransform="matrix(1 0 0 -1 3.000000e-02 8018)">
 		<stop  offset="0" style="stop-color:#74BCD8"/>
 		<stop  offset="1" style="stop-color:#CFEBFC"/>
 	</linearGradient>
-	<rect x="-1.2" y="0" class="st0" width="1201.8" height="1000"/>
+	<rect x="-1.2" class="st0" width="1201.8" height="1000"/>
 	<path class="st1" d="M206.4,248.9c0,0-3,0.9-3.5-3.5c-0.2-1.6-1.3-3-2.9-3.6c-0.3-0.8-0.1-1.6,0.5-2.2c-0.3-0.8-2.6-2.5-4-2
 		c-1,0.4-1.8,1.2-2,2.3c-1.2-0.3-3.5-2.2-4.5-1.8s-3,4.1-3.4,6.1c-0.8,1.5-3.1,1.5-3.2,2s-1,2.8-2.1,3.1c-1.9,0.5-1.9,1.9-2.7,3.5
 		s-4.5,0.6-5,0.9s-1,1.3-1.6,1.6s-1.9,0.2-2.5,1.5s-2.3-1.4-4.7,0s-2.5,2.8-3.5,3s-1.9-0.1-3.3,0.8s-5.3-1.1-6.7-1.1s-1,1.7-2,1.8
@@ -95,7 +92,6 @@
 		c-2.8-3.8-0.1-6.9-3.4-13.8c-3.3-6.9-3.4-1.2-8.6-8s-6.7-2.7-8.1-5.2s-1-4.6-4.1-6.1s-11-12.3-11.8-13.5s-2-0.4-1.5-2.8
 		s-3.3-0.4-2.5-6.5c-1.5-2.3-2.8-1.4-1.5-3.7s-3.2-4.4-3.1-5.9s0.5-3.8-0.2-5.4s-2.2-2.5-2.3-3s0.5-2.6-0.7-3.2
 		S209.4,248.3,206.4,248.9z"/>
-	<path class="st1" d="M182.5,596"/>
 	<path class="st1" d="M158.7,416.1c0,0,0.5,1.3-1.2,1.3s-0.4-4-2-4.1c-2.5-0.4-5.1-0.5-7.6-0.5c-3.1,0.1-5.7,0.9-7.7,0.9
 		c-2.9,0.1-5.6,1.6-7.2,4.1c-2.3,3.3-12.3,3.1-13.5,3.1c-1.1,0.1-2.1,0.6-2.8,1.4c-2.3,2-5.2,3.2-8.3,3.5c-4.3,0.1-8.6,0.6-10.4,0.6
 		s-4.2,0.1-6.5,0s-4.6-0.3-6.3-0.3s-3,0.9-5,0.9s-9.7-0.9-12,2.9s-0.9,7.9,1,13s1.4,14.1,1.4,15.7s-0.9,8.7,2.4,12.9
@@ -109,7 +105,7 @@
 		s0.9,4.2-0.5,8.5c1.5,4.6,8,0.3,10.3,3.7s-1.1,3.9,1.8,5.2s4,5.3,3.2,10s3.5,4.1,5.5,3.7s5.2,3.2,6.8,3.2s3.4-3.4,5.2-3.3
 		s2.8,3.9,4.2,3.8s3.2-1,4-0.9s4.2,4.6,5.9,5.7c0,0,5.9,5.8,9.1,4.6s3.5-1.6,6.4-1.2s5.8-1.5,8.3-1.3s-0.1,2,1.8,1.6s2.1-2.1,5-1.7
 		s2.6-2.3,4.3-2.3s1.5,2.7,3.2,3.3s2.4,2.4,4.2,2.9s7.1,0.1,8.5,1.3s5.3,1.5,10.2,2.9s5.2,0.1,7.1-1.4c1.3-1.2,2.7-2.2,4.3-2.9
-		c1.1-0.3-0.1-4.7,0.9-5.7c1-1,4.2-4.6,4.2-6.6s0.1-3.9,1.8-3.9s7.2,2.2,6.6-2.4s0.8-7.3-2.6-7.7s-5.5-1.2-5.5-2.7s0.7-4.2-2.2-4.2
+		c1.1-0.3-0.1-4.7,0.9-5.7s4.2-4.6,4.2-6.6s0.1-3.9,1.8-3.9s7.2,2.2,6.6-2.4s0.8-7.3-2.6-7.7s-5.5-1.2-5.5-2.7s0.7-4.2-2.2-4.2
 		s-1.6-4.9-1.6-6.2s-0.5-4.7-2.5-5.4s-0.8-9.1-5.1-9.6s-3.6-5.7-5.4-5.7s-6.7-3.6-7.8-3.6s-6.3-1-7.3-1.7s-0.5-2.9-7.3-2.7
 		s-9.5-3.5-12-3.5s-3.9-0.4-3.9-2.5s-1.2-4.4-4.1-4.4s-7.6-0.5-8.8-1.1C446,373.1,445.1,372.5,444.3,371.8z"/>
 	<path class="st1" d="M523.2,419.2c-1.2,0.3-2.4,0.9-3.4,1.6c-1.2,0.1-4.6,2.7-2.1,2.7s3-0.8,4,0s3.3-1.4,3.3-2.2
@@ -128,7 +124,7 @@
 		s3.6-3.8,3.6-5.9s0-3.5,1.1-3.9s-2-4.4-2.2-6.5s-0.3-5,1.3-6.2s3.1-6.2,3.1-7.1s1.7-4.7-1.3-5.5s-5-4.8-6.7-5s-3.8-4.6-6-4.6
 		s-8.7-2.7-11.6-7.2s-4.3-7.1-4.3-8.6s-1.8-2.9-1.9-4.7s0-4.3-1.4-4.5s-2.5,2.4-5.3,2.5s-4.8-0.4-6,0c-1.3,0.4-2.5,1.2-3.4,2.2
 		c-1.7,1.5-5.4,0.2-6,0.2s-2.2,0.3-3.9,0.5s-5-1.5-5.3,0.6s-0.2,2.5-1,2.5s-2,0-1.4-0.9s1.3-2-0.1-2.1s-2.8-0.4-2.8-0.9
-		s-2.5-0.7-3.7,0.3s-0.9-0.6-3.2,0.2s-3.4,1.6-2.9,3.6s2.2,3.4,0.8,4c-0.7,0.5-1.6,0.7-2.5,0.7c-1.6,0.1-2.1-1.7-2.7-1.7
+		s-2.5-0.7-3.7,0.3s-0.9-0.6-3.2,0.2s-3.4,1.6-2.9,3.6c0.5,2,2.2,3.4,0.8,4c-0.7,0.5-1.6,0.7-2.5,0.7c-1.6,0.1-2.1-1.7-2.7-1.7
 		s-3.5-1.1-3.8,0s-3,0.2-3.5,0.3s-1.8,1-1.8-0.2c-0.3-1.6-1.7-2.8-3.3-2.8c-1.7,0-5-0.9-6,1.4c-1,2.3-2.5,1.7-4.4,1.7
 		s-5.4,0.9-6.1,0.4c-1.2-0.9-2.8-1.1-4.2-0.5C559.8,515.7,554.8,519.4,553.1,518.2z"/>
 	<path class="st1" d="M634.7,473.5c0,0,2.9,6.5,4.6,10.1s2.7,4.3,3.3,5.8s3.3,4.5,0.8,6.8s-6.1,5.5-7.2,5.8c-2.5,0.6-5,0.9-7.6,0.9
@@ -167,7 +163,7 @@
 		<text transform="matrix(1 0 0 1 903.9553 913.6635)" class="st2 st3 st5">Española</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 706.3152 683.3235)" class="st2 st3 st5">Santa Fé</text>
+		<text transform="matrix(1 0 0 1 694.8152 677.3235)" class="st2 st3 st5">Santa Fé</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 461.4852 648.8935)" class="st2 st3 st5">Santa Cruz</text>
@@ -175,8 +171,6 @@
 	<rect x="-9.8" y="-14.6" class="st6" width="200.8" height="156.5"/>
 	<path class="st1" d="M94.8,103.7c0,0-0.4-18.9-6.7-18.9s-30.2,6.3-18.9,21.4s10.5-6.7,13.8-6.3s-1.3,13.8,3.4,13.8
 		S95.2,108.7,94.8,103.7z"/>
-	<text transform="matrix(1 0 0 1 75.4419 32.1493)" class="st7 st3 st8">Darwin</text>
-	<text transform="matrix(1 0 0 1 109.0395 84.7996)" class="st7 st3 st8">Wolf</text>
 	<path class="st1" d="M66,34.6c0,0-3.4-7.1-9.2-7.1S27.1,43.8,43,55.2S66,34.6,66,34.6z"/>
 	<text transform="matrix(1 0 0 1 15.4921 539.7281)" class="st2 st3 st5">Fernandina</text>
 	<g>
@@ -186,89 +180,45 @@
 		<text transform="matrix(1 0 0 1 982.6761 552.4256)" class="st2 st3 st5">San Cristobal</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 582.5588 206.7277)" class="st2 st3 st5">Marchena</text>
-	</g>
-	<g>
 		<text transform="matrix(1 0 0 1 780.5241 163.1635)" class="st2 st3 st5">Genovesa</text>
 	</g>
-	<text transform="matrix(1 0 0 1 37.6193 962.2041)" class="st2 st3 st9">PACIFIC OCEAN</text>
+	<text transform="matrix(1 0 0 1 37.6193 962.2041)" class="st2 st3 st7">PACIFIC OCEAN</text>
 	<g>
 		<text transform="matrix(1 0 0 1 222.4854 770.8769)" class="st2 st3 st5">Isabela</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 663.8255 186.7419)" class="st7 st3 st10">El Barranco </text>
+		<text transform="matrix(1 0 0 1 666.8253 177.7423)" class="st8 st3 st9">El Barranco </text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 640.9376 171.2419)" class="st7 st3 st10">Prince Philip Steps </text>
+		<text transform="matrix(1 0 0 1 788.7893 181.7281)" class="st8 st3 st10">DARWIN BAY</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 782.7896 193.7275)" class="st7 st3 st11">DARWIN BAY</text>
+		<text transform="matrix(1 0 0 1 4.2656 327.3133)" class="st8 st3 st10">Pta. Vicente Roca</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 4.2656 327.3133)" class="st7 st3 st11">Pta. Vicente Roca</text>
+		<text transform="matrix(1 0 0 1 46.6195 416.2285)" class="st8 st3 st10">Punta Espinosa</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 46.6195 416.2285)" class="st7 st3 st11">Punta Espinosa</text>
+		<text transform="matrix(1 0 0 1 322.7565 422.5829)" class="st8 st3 st10">Egas Port</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 192.4283 418.7148)" class="st7 st3 st11">TAGUS COVE</text>
+		<text transform="matrix(1 0 0 1 516.2351 403.0879)" class="st8 st3 st10">SULLIVAN BAY</text>
 	</g>
 	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 200.8033 468.2836)" class="st7 st3 st11">Urbina</text>
-			<text transform="matrix(1 0 0 1 200.8033 478.6836)" class="st7 st3 st11">Bay</text>
-		</g>
+		<text transform="matrix(1 0 0 1 531.8075 426.0253)" class="st8 st3 st10">Bartholomew</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 172 505.9389)" class="st7 st3 st11">Punta Mangle</text>
+		<text transform="matrix(1 0 0 1 209.2141 561.1424)" class="st8 st3 st10">ELIZABETH BAY</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 305.8998 403.2424)" class="st7 st3 st12">Buccaneer Cove</text>
+		<text transform="matrix(1 0 0 1 125.4728 592.9563)" class="st8 st3 st10">Moreno Point</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 310.7 376.6008)" class="st7 st3 st11">Espumilla Beach</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 322.7565 422.5829)" class="st7 st3 st11">Egas Port</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 519.9018 407.4212)" class="st7 st3 st11">SULLIVAN BAY</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 527.1408 429.0253)" class="st7 st3 st11">Bartholomew</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 209.2141 561.1424)" class="st7 st3 st11">ELIZABETH BAY</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 125.4728 592.9563)" class="st7 st3 st11">Moreno Point</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 199.7713 640.3421)" class="st7 st3 st11">Sierra Negra</text>
+		<text transform="matrix(1 0 0 1 199.7713 640.3421)" class="st8 st3 st10">Sierra Negra</text>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 190 706.7635)" class="st7 st3 st11">Tortoise Breeding Center</text>
-		</g>
-	</g>
-	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 207.9564 736.5843)" class="st7 st3 st11">Wetlands</text>
-		</g>
-	</g>
-	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 312.8096 725.341)" class="st7 st3 st11">Los Tuneles</text>
-		</g>
-	</g>
-	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 310.4142 685.9706)" class="st7 st3 st11">Wall of Tears</text>
-		</g>
-	</g>
-	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 380.1846 705.5)" class="st7 st3 st11">Tintoteras</text>
+			<text transform="matrix(1 0 0 1 324.4142 716.9706)" class="st8 st3 st10">Villamil Port</text>
 		</g>
 	</g>
 	<g>
@@ -277,105 +227,67 @@
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 507.397 459.2409)" class="st7 st3 st11">Chinese Hat</text>
+		<text transform="matrix(1 0 0 1 510.2998 494.1195)" class="st8 st3 st10">Daphne</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 512.2998 488.7862)" class="st7 st3 st11">Daphne</text>
+		<text transform="matrix(1 0 0 1 640.7767 469.7218)" class="st11 st3 st10">North Seymour </text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 644.4434 462.7218)" class="st13 st3 st11">North Seymour </text>
+		<text transform="matrix(1 0 0 1 690.6047 541.2331)" class="st8 st3 st10">South Plaza</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 646.8915 482.786)" class="st14 st3 st11">Mosquera Islet</text>
+		<text transform="matrix(1 0 0 1 638.3213 513.3006)" class="st8 st3 st12">Black Turtle</text>
+		<text transform="matrix(1 0 0 1 638.3213 523.2211)" class="st8 st3 st12">Cove</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 653.348 500.1421)" class="st7 st3 st11">Punta Carrion</text>
+		<text transform="matrix(1 0 0 1 499.4147 515.4983)" class="st8 st3 st13">Bachas Beach</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 682.9381 540.8998)" class="st7 st3 st11">South Plaza</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 636.988 512.9673)" class="st7 st3 st15">Black Turtle</text>
-		<text transform="matrix(1 0 0 1 636.988 522.8878)" class="st7 st3 st15">Cove</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 499.4147 515.4983)" class="st7 st3 st16">Bachas Beach</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 460.5 540.8997)" class="st7 st3 st11">Dragon Hill</text>
+		<text transform="matrix(1 0 0 1 468.5 537.5664)" class="st8 st3 st10">Dragon Hill</text>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 440.5 585.9198)" class="st2 st3 st16">PINZÓN</text>
+			<text transform="matrix(1 0 0 1 440.5 585.9198)" class="st2 st3 st13">PINZÓN</text>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 608.7509 557.9635)" class="st7 st3 st11">Twin Craters</text>
+		<text transform="matrix(1 0 0 1 609.8698 573.9567)" class="st8 st3 st10">Highlands</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 609.8698 573.9567)" class="st7 st3 st11">Highlands</text>
+		<text transform="matrix(1 0 0 1 644.7511 602.6281)" class="st8 st3 st10">Charles Darwin Station </text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 546.2459 619.0564)" class="st7 st3 st11">Tortuga Bay</text>
+		<text transform="matrix(1 0 0 1 860.5594 639.6367)" class="st8 st3 st10">Lobos Island</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 644.7511 602.6281)" class="st7 st3 st11">Charles Darwin Station </text>
+		<text transform="matrix(1 0 0 1 868.559 659.8215)" class="st8 st3 st10">Tijeretas</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 550.7666 604.7427)" class="st7 st3 st11">Pto. Ayora</text>
+		<text transform="matrix(1 0 0 1 948.0001 688.4756)" class="st8 st3 st14">Interpretation </text>
+		<text transform="matrix(1 0 0 1 948.0006 702.9947)" class="st8 st3 st14">Center</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1061.1787 602.654)" class="st7 st3 st11">Pitt Point</text>
+		<text transform="matrix(1 0 0 1 887.7592 851.3094)" class="st8 st3 st10">GARDENS BAY</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 935.5004 599.0424)" class="st7 st3 st11">Witch Hill</text>
+		<text transform="matrix(1 0 0 1 923.7069 872.9758)" class="st8 st3 st10">Osborn Islet</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 873.559 630.8417)" class="st7 st3 st11">Leon Dormido</text>
+		<text transform="matrix(1 0 0 1 772.1166 865.4344)" class="st8 st3 st10">Suarez Point</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 873.5594 640.97)" class="st7 st3 st11">Isla Lobos</text>
+		<text transform="matrix(1 0 0 1 616.9502 803.9925)" class="st8 st3 st10">Devil’s Crown </text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 873.559 659.1548)" class="st7 st3 st11">Tijeretas</text>
+		<text transform="matrix(1 0 0 1 612.3936 836.3928)" class="st8 st3 st10">Baroness’ Observatory</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 971.7094 659.1554)" class="st7 st3 st11">El Junco</text>
+		<text transform="matrix(1 0 0 1 465.7201 801.7428)" class="st8 st3 st10"> Cormorant Point</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 994.153 681.3235)" class="st7 st3 st11">Breeding Center</text>
+		<text transform="matrix(1 0 0 1 456.1384 822.308)" class="st8 st3 st10">Post Ofiice Bay</text>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 942.0001 701.8089)" class="st7 st3 st17">Interpretation </text>
-		<text transform="matrix(1 0 0 1 942.0006 716.328)" class="st7 st3 st17">Center</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 855.3334 678.2425)" class="st7 st3 st11">Puerto </text>
-		<text transform="matrix(1 0 0 1 855.3334 692.6425)" class="st7 st3 st11">Baqueizo</text>
-		<text transform="matrix(1 0 0 1 855.3334 707.0425)" class="st7 st3 st11"> Moreno</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 888.4259 852.6427)" class="st7 st3 st11">GARDENS BAY</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 911.7069 873.6425)" class="st7 st3 st11">Osborn Islet</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 765.7832 870.4344)" class="st7 st3 st11">Punta Suares</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 614.7002 805.7425)" class="st7 st3 st11">Devils`s Crown </text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 605.3936 840.1428)" class="st7 st3 st11">Baroness`Observatory</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 471.4701 805.7428)" class="st7 st3 st11"> Cormorant Point</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 464.8884 822.308)" class="st7 st3 st11">Post Ofiice Bay</text>
-	</g>
-	<path class="st7" d="M906.6,670c0.1-0.1,0.2-0.2,0.3-0.3h0.1c0.7,0.3,1.3,0.5,2,0.8s1.4,0.6,2.1,0.8c0.1,0,0.1,0,0.2,0
+	<path class="st8" d="M906.6,670c0.1-0.1,0.2-0.2,0.3-0.3h0.1c0.7,0.3,1.3,0.5,2,0.8s1.4,0.6,2.1,0.8c0.1,0,0.1,0,0.2,0
 		c0.1-0.1,0.1-0.1,0.2-0.2c0.1-0.1,0.2-0.1,0.3,0s0.1,0.2,0,0.3l-0.1,0.1c0.2,0.1,0.4,0.1,0.5,0.2c0.2,0.1,0.3,0.1,0.5-0.1
 		c0.5-0.5,1-1,1.5-1.6c0.2-0.2,0.4-0.3,0.6-0.3c0.5,0,0.8,0.4,0.6,0.8c0,0.2-0.1,0.3-0.3,0.5c-0.5,0.5-1.1,1.1-1.6,1.6
 		c-0.1,0.1-0.1,0.1,0,0.2c0.1,0.2,0.2,0.5,0.3,0.8c0-0.1,0.1-0.1,0.1-0.2c0.1-0.1,0.2-0.1,0.3,0s0.1,0.2,0,0.3l0,0
@@ -385,7 +297,7 @@
 		c0.1-0.3,0.3-0.6,0.4-0.8c-0.4-0.3-0.7-0.6-1.1-0.9c-0.2-0.1-0.4-0.3-0.5-0.4c-0.1-0.1-0.1-0.1,0-0.2c0.1-0.1,0.1-0.1,0.2-0.2
 		c0.1-0.1,0.1-0.1,0.2,0c0.3,0.2,0.6,0.4,0.9,0.5c0.2,0.1,0.4,0.2,0.6,0.4c0,0,0.1,0,0.1,0.1c0-0.3,0.3-0.5,0.5-0.6
 		c0.5-0.5,1-1,1.5-1.4c0,0,0.1,0,0.1-0.1C909.5,672.2,908.1,671.1,906.6,670z"/>
-	<path class="st7" d="M630.5,492.8c0.1-0.1,0.2-0.2,0.3-0.3h0.1c0.7,0.3,1.3,0.5,2,0.8s1.4,0.6,2.1,0.8c0.1,0,0.1,0,0.2,0
+	<path class="st8" d="M630.5,492.8c0.1-0.1,0.2-0.2,0.3-0.3h0.1c0.7,0.3,1.3,0.5,2,0.8s1.4,0.6,2.1,0.8c0.1,0,0.1,0,0.2,0
 		c0.1-0.1,0.1-0.1,0.2-0.2c0.1-0.1,0.2-0.1,0.3,0s0.1,0.2,0,0.3l-0.1,0.1c0.2,0.1,0.4,0.1,0.5,0.2c0.2,0.1,0.3,0.1,0.5-0.1
 		c0.5-0.5,1-1,1.5-1.6c0.2-0.2,0.4-0.3,0.6-0.3c0.5,0,0.8,0.4,0.6,0.8c0,0.2-0.1,0.3-0.3,0.5c-0.5,0.5-1.1,1.1-1.6,1.6
 		c-0.1,0.1-0.1,0.1,0,0.2c0.1,0.2,0.2,0.5,0.3,0.8c0-0.1,0.1-0.1,0.1-0.2c0.1-0.1,0.2-0.1,0.3,0s0.1,0.2,0,0.3l0,0
@@ -395,19 +307,7 @@
 		c0.1-0.3,0.3-0.6,0.4-0.8c-0.4-0.3-0.7-0.6-1.1-0.9c-0.2-0.1-0.4-0.3-0.5-0.4s-0.1-0.1,0-0.2s0.1-0.1,0.2-0.2
 		c0.1-0.1,0.1-0.1,0.2,0c0.3,0.2,0.6,0.4,0.9,0.5c0.2,0.1,0.4,0.2,0.6,0.4c0,0,0.1,0,0.1,0.1c0-0.3,0.3-0.5,0.5-0.6
 		c0.5-0.5,1-1,1.5-1.4c0,0,0.1,0,0.1-0.1C633.4,495,631.9,493.9,630.5,492.8z"/>
-	<g>
-		<text transform="matrix(1 0 0 1 436.9196 835.6427)" class="st7 st3 st11">Pto. Velasco Ibarra</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 475.2856 855.4342)" class="st7 st3 st11">Black Beach</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 565.8051 855.4344)" class="st7 st3 st11">Asilo de la Paz</text>
-	</g>
-	<text transform="matrix(1 0 0 1 630.9146 619.227)" class="st7 st3 st11">F.LL. Breeding Center</text>
-	<text transform="matrix(1 0 0 1 733.0494 652.2963)" class="st7 st3 st11">South Plaza</text>
-	<text transform="matrix(1 0 0 1 513.5573 576.5316)" class="st7 st3 st11">El Chato</text>
-	<path class="st7" d="M1066.8,840.1L1066.8,840.1c0-25.7,20.9-46.6,46.6-46.6h88.6v93.2h-88.6
+	<path class="st8" d="M1066.8,840.1L1066.8,840.1c0-25.7,20.9-46.6,46.6-46.6h88.6v93.2h-88.6
 		C1087.7,886.8,1066.8,865.9,1066.8,840.1z"/>
 	<g>
 		<g>
@@ -415,196 +315,198 @@
 				<g>
 					<g>
 						<g>
-							<defs>
-								<rect id="SVGID_2_" x="1129.7" y="813.3" width="30.6" height="35.7"/>
-							</defs>
-							<clipPath id="SVGID_3_">
-								<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
-							</clipPath>
-							<path class="st18" d="M1148.4,827.7h8.3c1.7,0.1,2.7,0.5,3.1,1.3c0.3,0.6,0.5,1.5,0.5,2.6V842c0,1-0.4,2-1.3,2.9
-								c-2.6,2.7-6.6,4.1-11.9,4.1c-4.7,0-8.8-1.8-12.2-5.3c-3.5-3.5-5.2-7.8-5.2-12.8s1.8-9.2,5.3-12.5c3.5-3.4,7.7-5,12.5-5
-								c3.7,0,7.2,1.2,10.5,3.7c0.8,0.6,1.3,1.3,1.3,2.1s-0.4,1.7-1.1,2.7c-1.2,1.7-2.3,2.5-3.4,2.5c-0.6,0-1.6-0.4-2.9-1.3
-								c-1.3-0.9-2.9-1.3-4.7-1.3c-2.4,0-4.5,0.8-6.4,2.5s-2.8,3.9-2.8,6.6c0,2.7,0.9,5,2.8,6.9s4,2.9,6.4,2.9
-								c1.7,0,3.3-0.3,4.7-0.8v-5.1h-3.7c-1,0-1.7-0.1-2.1-0.4c-0.4-0.3-0.7-0.6-0.8-1.1c-0.1-0.5-0.2-1.1-0.2-2
-								c0-0.8,0.1-1.5,0.2-2s0.4-0.9,0.8-1C1146.7,827.8,1147.5,827.7,1148.4,827.7"/>
+							<g>
+								<defs>
+									<rect id="SVGID_2_" x="1129.7" y="813.3" width="30.6" height="35.7"/>
+								</defs>
+								<clipPath id="SVGID_3_">
+									<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+								</clipPath>
+								<path class="st15" d="M1148.4,827.7h8.3c1.7,0.1,2.7,0.5,3.1,1.3c0.3,0.6,0.5,1.5,0.5,2.6V842c0,1-0.4,2-1.3,2.9
+									c-2.6,2.7-6.6,4.1-11.9,4.1c-4.7,0-8.8-1.8-12.2-5.3c-3.5-3.5-5.2-7.8-5.2-12.8s1.8-9.2,5.3-12.5c3.5-3.4,7.7-5,12.5-5
+									c3.7,0,7.2,1.2,10.5,3.7c0.8,0.6,1.3,1.3,1.3,2.1s-0.4,1.7-1.1,2.7c-1.2,1.7-2.3,2.5-3.4,2.5c-0.6,0-1.6-0.4-2.9-1.3
+									c-1.3-0.9-2.9-1.3-4.7-1.3c-2.4,0-4.5,0.8-6.4,2.5s-2.8,3.9-2.8,6.6c0,2.7,0.9,5,2.8,6.9s4,2.9,6.4,2.9
+									c1.7,0,3.3-0.3,4.7-0.8v-5.1h-3.7c-1,0-1.7-0.1-2.1-0.4c-0.4-0.3-0.7-0.6-0.8-1.1c-0.1-0.5-0.2-1.1-0.2-2
+									c0-0.8,0.1-1.5,0.2-2s0.4-0.9,0.8-1C1146.7,827.8,1147.5,827.7,1148.4,827.7"/>
+							</g>
 						</g>
 					</g>
 				</g>
 			</g>
 		</g>
-		<path class="st19" d="M1182.8,830c-1.2-2.7-4.4-3.9-7.1-2.7c-1.6,0.7-2.7,2.2-3.1,3.8l0,0v0.1v0.1c-0.4,2.1-4,17.7-18.4,26.5
+		<path class="st16" d="M1182.8,830c-1.2-2.7-4.4-3.9-7.1-2.7c-1.6,0.7-2.7,2.2-3.1,3.8l0,0v0.1v0.1c-0.4,2.1-4,17.7-18.4,26.5
 			c-15.5,9.5-31,4.8-31,4.8s-7.1-1.8-12.8-5.8c-0.7-0.5-1.5-0.6-2.3-0.2c-1.2,0.5-1.7,1.9-1.2,3.1c0.2,0.4,0.5,0.7,0.8,1
 			c1.6,1.3,15,11.7,32.4,10.4c18.6-1.5,28.6-12.1,28.6-12.1s11-8.9,14.4-25.2C1183.4,832.4,1183.4,831.1,1182.8,830"/>
-		<path class="st20" d="M1127.5,814.6c0.3-0.5,0.7-0.8,1.3-1c0.6-0.2,1.4-0.3,2.3-0.3s1.7,0.1,2.2,0.2c0.6,0.2,1,0.4,1.3,0.6
+		<path class="st17" d="M1127.5,814.6c0.3-0.5,0.7-0.8,1.3-1c0.6-0.2,1.4-0.3,2.3-0.3s1.7,0.1,2.2,0.2c0.6,0.2,1,0.4,1.3,0.6
 			c0.3,0.2,0.5,0.6,0.7,1c0.2,0.6,0.2,1.4,0.2,2.5v27c0,0.7,0,1.3-0.1,1.7c0,0.4-0.2,0.8-0.5,1.3c-0.5,0.9-1.7,1.3-3.8,1.3
 			c-2.3,0-3.6-0.6-4-1.8c-0.2-0.6-0.3-1.4-0.3-2.5v-9.9h-12.9v9.9c0,0.7,0,1.3-0.1,1.7c0,0.4-0.2,0.8-0.5,1.3
 			c-0.5,0.9-1.7,1.3-3.8,1.3c-2.3,0-3.6-0.6-4-1.8c-0.2-0.6-0.3-1.4-0.3-2.5v-27c0-0.7,0-1.3,0.1-1.7c0-0.4,0.2-0.8,0.5-1.3
 			c0.5-0.9,1.7-1.3,3.8-1.3c2.3,0,3.6,0.6,4,1.8c0.2,0.6,0.2,1.4,0.2,2.5v9.9h12.9v-10c0-0.7,0-1.3,0.1-1.7
 			C1127.1,815.5,1127.3,815.1,1127.5,814.6"/>
 	</g>
-	<text transform="matrix(1 0 0 1 617.8239 822.6225)" class="st7 st3 st11">Champion Islet </text>
 </g>
 <g id="trazos">
-	<path id="Trazo1-2" class="st21" d="M654.8,489.8l-28.3,18.5c0,0-51.7-130.6,159.9-328.9c0,0-19,4.2-22.9-2.1
-		S545.6,401.6,535.9,419.9c1.5-11.9-16.7-19.5-16.7-19.5s75.2,11.7-3.9,81.8c68.1-26.8,247.5-81.8,135.6,30.4
-		c0,0-67.4-76.3-105.3,21.3c-59.5,47.5,69.2,149.2,101.9,62.3c0,0-85.4,185.2-84.9,223.7c-43.4-28,106-58,46.4,12.9
-		c0,0,32.3-52.3-26.8-30.6c7.9-8.6,25.8-0.5,25.7,9.4c4.3-8.3,247.7,40.4,259.3,49.7c0.2-14.1,17.2-19.9,27-8.8
-		c6.8-5.5,17.8,4,17.8,13.8c6.2-5.1-66.7-194,35.4-228.2c-9.9,5.1-11.3,12.1-9.1,18.1c-67.5,5.6-17.2,77.4,9.1,24.2
-		c0,0-204.7,76.9-212.7-43.1c16.5-41-45.5-102.8-45.5-102.8s24.8,119.9-39.1,65.1c-5.4-4.3-38.2-32.7-38.2-32.7s30.7,26.2,37,34.1
-		c84.3,103.3-273.3,198.5-355.5,37.7c0,0,68.8,83.7,89.3,51C272.3,807-68,713.5,219.7,590.2c0,0,32-51.2,102.5-35
-		c-49.8-12.2-159.5-200.5-165-141.7c0,0-32.1-42.4-31.5-88.9c-88.8-30.5-4.9-270.8,276.1,91.4c0,0,47.8,54.4,67,53.4
-		c18.2-5.7,149.5-17.3,173-8.8c0,0-7.2,21.1-4.2,28.6"/>
+	<path id="Trazo1-2" class="st18" d="M634.2,488.8l-50.3,22.8c0,0-24.5-134.8,187.1-333.1c0,0-12.3,3.2-16.2-3.1
+		c-21.6-34.8-252.9,260.9-243.6,243.3c1.5-11.9-14.5-17.5-14.5-17.5s72.2,12.7-6.9,82.8c68.1-26.8,241.9-82.7,130,29.6
+		c0,0-45-79.2-82.9,18.4c-59.5,47.5,58.2,151,90.9,64c0,0-87.6,186.8-87.1,225.3c-61.7-39.8,122-72.9,52.6,9.7
+		c27.5-36.8-7.5-39.9-30.6-31.4c7.9-8.6,33.5-8.7,33.4,1.2c4.3-8.3,241.9,52.7,253.5,62c0.2-14.1,12.2-21.4,22-10.3
+		c6.8-5.5,30.1,4.7,30.1,14.5c6.2-5.1-72.8-194.4,29.3-228.6c-9.9,5.1-14.8,10.2-12.6,16.2c-67.5,5.6-18,86,8.3,32.8
+		c0,0-203.7,69.4-211.7-50.6c14.8-36.7-33.3-88.1-41.7-99.1c-0.4-0.5-1.2-0.1-1.1,0.5c3.1,16.8,16.6,111.3-41.8,61.2
+		c-5.4-4.3-38.2-31-38.2-31s30.7,24.5,37,32.3c84.3,103.3-274.6,200.3-356.8,39.5c0,0,46.8,89.7,67.3,57
+		c-110.4,117.3-428,14.5-140.3-108.8c0,0,32.5-50,103-33.8c-49.8-12.2-166.2-199.1-171.7-140.3c0,0-26.2-41-25.6-87.5
+		c-88.8-30.5-4.6-272.9,276.4,89.3c0,0,46.5,55.9,65.8,54.9c18.2-5.7,149.6-14.5,173.1-6c0,0-11.5,17.3-8.5,24.8"/>
 </g>
-<g id="p2" class="st22">
-	<circle id="p4-3" class="st23" cx="626.6" cy="507.2" r="8.8"/>
-	<text transform="matrix(1 0 0 1 622.819 511.9373)" class="st7 st3 st24">2</text>
+<g id="p2" class="st19">
+	<circle id="p4-3" class="st20" cx="593.3" cy="512.4" r="8.8"/>
+	<text transform="matrix(1 0 0 1 589.4857 517.1039)" class="st8 st3 st21">2</text>
 </g>
-<g id="p5" class="st22">
-	<ellipse id="p4-7_1_" class="st23" cx="536.8" cy="420.9" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 532.7834 425.5835)" class="st7 st3 st24">5 </text>
+<g id="p5" class="st19">
+	<ellipse id="p4-7_1_" class="st20" cx="520.8" cy="421.6" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 516.7834 426.3335)" class="st8 st3 st21">5 </text>
 </g>
-<g id="p6" class="st22">
-	<ellipse id="p4-7_2_" class="st23" cx="519.1" cy="400.5" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 515.2136 405.1546)" class="st7 st3 st24">6</text>
+<g id="p6" class="st19">
+	<ellipse id="p4-7_2_" class="st20" cx="505.3" cy="403.3" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 501.4636 407.9046)" class="st8 st3 st21">6</text>
 </g>
-<g id="p10" class="st22">
-	<ellipse id="p4-7_6_" class="st23" cx="646.7" cy="596.3" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 640.7319 600.2595)" class="st7 st3 st25">10</text>
+<g id="p10" class="st19">
+	<ellipse id="p4-7_6_" class="st20" cx="635.7" cy="598" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 629.7319 602.0095)" class="st8 st3 st22">10</text>
 </g>
-<g id="p11" class="st22">
-	<ellipse id="p4-7_7_" class="st23" cx="562.5" cy="816" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 556.4545 820)" class="st7 st3 st25">11</text>
+<g id="p11" class="st19">
+	<ellipse id="p4-7_7_" class="st20" cx="549.3" cy="819.3" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 543.2878 823.3333)" class="st8 st3 st22">11</text>
 </g>
-<g id="p12" class="st22">
-	<ellipse id="p4-7_8_" class="st23" cx="607.8" cy="832.9" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 601.7763 836.8743)" class="st7 st3 st25">12</text>
+<g id="p12" class="st19">
+	<ellipse id="p4-7_8_" class="st20" cx="600.8" cy="833.1" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 594.7763 837.041)" class="st8 st3 st22">12</text>
 </g>
-<g id="p13" class="st22">
-	<ellipse id="p4-7_9_" class="st23" cx="582.1" cy="803" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 576.0728 807.0168)" class="st7 st3 st25">13</text>
+<g id="p13" class="st19">
+	<ellipse id="p4-7_9_" class="st20" cx="571.3" cy="802.3" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 565.2395 806.3501)" class="st8 st3 st22">13</text>
 </g>
-<g id="p14" class="st22">
-	<ellipse id="p4-7_10_" class="st23" cx="607.8" cy="811" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 601.7905 815.0115)" class="st7 st3 st25">14</text>
+<g id="p14" class="st19">
+	<ellipse id="p4-7_10_" class="st20" cx="604.6" cy="802.2" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 598.6238 806.1782)" class="st8 st3 st22">14</text>
 </g>
-<g id="p15" class="st22">
-	<ellipse id="p4-7_11_" class="st23" cx="863.3" cy="861.4" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 857.2903 865.39)" class="st7 st3 st25">15</text>
+<g id="p15" class="st19">
+	<ellipse id="p4-7_11_" class="st20" cx="854.3" cy="864.9" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 848.2903 868.89)" class="st8 st3 st22">15</text>
 </g>
-<g id="p16" class="st22">
-	<ellipse id="p4-7_12_" class="st23" cx="894.1" cy="852.6" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 888.0683 856.6573)" class="st7 st3 st25">16</text>
+<g id="p16" class="st19">
+	<ellipse id="p4-7_12_" class="st20" cx="880.1" cy="854.6" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 874.0683 858.6573)" class="st8 st3 st22">16</text>
 </g>
-<g id="p17" class="st22">
-	<ellipse id="p4-7_13_" class="st23" cx="911.8" cy="867.5" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 905.8571 871.494)" class="st7 st3 st25">17</text>
+<g id="p17" class="st19">
+	<ellipse id="p4-7_13_" class="st20" cx="910.1" cy="870.2" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 904.1904 874.1607)" class="st8 st3 st22">17</text>
 </g>
-<g id="p19" class="st22">
-	<ellipse id="p4-7_14_" class="st23" cx="938.5" cy="656.4" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 932.5103 660.4025)" class="st7 st3 st25">19</text>
+<g id="p19" class="st19">
+	<ellipse id="p4-7_14_" class="st20" cx="927.3" cy="656.8" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 921.2603 660.7775)" class="st8 st3 st22">19</text>
 </g>
-<g id="p20" class="st22">
-	<ellipse id="p4-7_16_" class="st23" cx="947.3" cy="680.5" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 941.2602 684.5706)" class="st7 st3 st25">20</text>
+<g id="p20" class="st19">
+	<ellipse id="p4-7_16_" class="st20" cx="935.3" cy="689.5" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 929.2602 693.5706)" class="st8 st3 st22">20</text>
 </g>
-<g id="p21" class="st22">
-	<ellipse id="p4-7_17_" class="st23" cx="734.5" cy="637.5" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 728.5515 641.5294)" class="st7 st3 st25">21</text>
+<g id="p21" class="st19">
+	<ellipse id="p4-7_17_" class="st20" cx="723.5" cy="639" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 717.5515 643.0294)" class="st8 st3 st22">21</text>
 </g>
-<g id="p22" class="st22">
-	<ellipse id="p4-7_18_" class="st23" cx="688.2" cy="534.7" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 682.1835 538.776)" class="st7 st3 st25">22</text>
+<g id="p22" class="st19">
+	<ellipse id="p4-7_18_" class="st20" cx="679.5" cy="538" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 673.4335 542.026)" class="st8 st3 st22">22</text>
 </g>
-<g id="p23" class="st22">
-	<ellipse id="p4-7_19_" class="st23" cx="610.9" cy="567.1" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 604.894 571.0885)" class="st7 st3 st25">23</text>
+<g id="p23" class="st19">
+	<ellipse id="p4-7_19_" class="st20" cx="599.9" cy="570.6" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 593.894 574.5885)" class="st8 st3 st22">23</text>
 </g>
-<g id="p24" class="st22">
-	<ellipse id="p4-7_20_" class="st23" cx="291.7" cy="632.8" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 285.7139 636.8269)" class="st7 st3 st25">24</text>
+<g id="p24" class="st19">
+	<ellipse id="p4-7_20_" class="st20" cx="279.5" cy="636.3" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 273.4639 640.3269)" class="st8 st3 st22">24</text>
 </g>
-<g id="p25_1_" class="st22">
-	<ellipse id="p4-7_22_" class="st23" cx="382.5" cy="689.6" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 376.4982 693.5768)" class="st7 st3 st25">25</text>
+<g id="p25_1_" class="st19">
+	<ellipse id="p4-7_22_" class="st20" cx="348.3" cy="699.1" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 342.2482 703.0768)" class="st8 st3 st22">25</text>
 </g>
-<g id="p26" class="st22">
-	<ellipse id="p4-7_23_" class="st23" cx="219.7" cy="590.2" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 213.6962 594.1526)" class="st7 st3 st25">26</text>
+<g id="p26" class="st19">
+	<ellipse id="p4-7_23_" class="st20" cx="208.2" cy="590.5" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 202.1962 594.4026)" class="st8 st3 st22">26</text>
 </g>
-<g id="p27" class="st22">
-	<ellipse id="p4-7_24_" class="st23" cx="322.5" cy="555.2" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 316.4398 559.1598)" class="st7 st3 st25">27</text>
+<g id="p27" class="st19">
+	<ellipse id="p4-7_24_" class="st20" cx="311.5" cy="556.7" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 305.4398 560.6598)" class="st8 st3 st22">27</text>
 </g>
-<g id="p28" class="st22">
-	<ellipse id="p4-7_21_" class="st23" cx="157.1" cy="412.2" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 151.1065 416.1601)" class="st7 st3 st25">28</text>
+<g id="p28" class="st19">
+	<ellipse id="p4-7_21_" class="st20" cx="139.4" cy="415.1" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 133.4065 419.0601)" class="st8 st3 st22">28</text>
 </g>
-<g id="p29" class="st22">
-	<ellipse id="p4-7_25_" class="st23" cx="123.6" cy="322.6" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 117.5575 326.6101)" class="st7 st3 st25">29</text>
-</g>
-<g id="p30" class="st22">
-	<ellipse id="p4-7_26_" class="st23" cx="401.8" cy="415.9" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 395.7398 419.9111)" class="st7 st3 st25">30</text>
-</g>
-<g id="p31" class="st22">
-	<ellipse id="p4-7_27_" class="st23" cx="468.8" cy="470.4" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 462.7599 474.3661)" class="st7 st3 st25">31</text>
-</g>
-<g id="p32" class="st22">
-	<ellipse id="p4-7_28_" class="st23" cx="641.2" cy="460.5" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 635.1442 464.5161)" class="st7 st3 st25">32</text>
-</g>
-<g id="p33" class="st22">
-	<ellipse id="p4-7_29_" class="st23" cx="636.2" cy="489.2" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 630.2284 493.166)" class="st7 st3 st25">33</text>
-</g>
-<g id="p18" class="st22">
-	<ellipse id="p4-7_15_" class="st23" cx="947.3" cy="637.6" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 941.26 641.5891)" class="st7 st3 st25">18|</text>
-</g>
-<g id="p9" class="st22">
-	<ellipse id="p4-7_5_" class="st23" cx="545.5" cy="534" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 541.5453 538.6828)" class="st7 st3 st24">9</text>
-</g>
-<g id="p8" class="st22">
-	<ellipse id="p4-7_4_" class="st23" cx="648.7" cy="512.7" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 644.8459 517.387)" class="st7 st3 st24">8</text>
-</g>
-<g id="p7" class="st22">
-	<ellipse id="p4-7_3_" class="st23" cx="514.2" cy="482.3" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 510.2669 486.9647)" class="st7 st3 st24">7</text>
-</g>
-<g id="p4" class="st22">
+<g id="p29" class="st19">
 	
-		<ellipse id="p4-7" transform="matrix(0.3162 -0.9487 0.9487 0.3162 354.9598 844.6799)" class="st23" cx="763.5" cy="176.1" rx="8.8" ry="8.8"/>
-	<text transform="matrix(1 0 0 1 759.5154 180.825)" class="st7 st3 st24">4</text>
+		<ellipse id="p4-7_25_" transform="matrix(0.9951 -9.853757e-02 9.853757e-02 0.9951 -31.6713 12.6043)" class="st20" cx="111.8" cy="326.9" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 105.7242 330.9435)" class="st8 st3 st22">29</text>
 </g>
-<g id="p3" class="st22">
-	<circle id="p4-9" class="st23" cx="782.8" cy="179.3" r="8.8"/>
-	<text transform="matrix(1 0 0 1 779.0803 184.234)" class="st7 st3 st24">3</text>
+<g id="p30" class="st19">
+	<ellipse id="p4-7_26_" class="st20" cx="390.3" cy="418.1" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 384.2398 422.1611)" class="st8 st3 st22">30</text>
 </g>
-<g id="p1" class="st22">
-	<circle class="st23" cx="656.2" cy="489.7" r="8.8"/>
-	<text transform="matrix(1 0 0 1 652.3867 494.4523)" class="st7 st3 st24">1</text>
+<g id="p31" class="st19">
+	<ellipse id="p4-7_27_" class="st20" cx="456" cy="474.1" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 450.0099 478.1161)" class="st8 st3 st22">31</text>
+</g>
+<g id="p32" class="st19">
+	<ellipse id="p4-7_28_" class="st20" cx="628" cy="464.8" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 621.9775 468.8495)" class="st8 st3 st22">32</text>
+</g>
+<g id="p33" class="st19">
+	<ellipse id="p4-7_29_" class="st20" cx="620.9" cy="491.5" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 614.895 495.4993)" class="st8 st3 st22">33</text>
+</g>
+<g id="p18" class="st19">
+	<ellipse id="p4-7_15_" class="st20" cx="939.5" cy="639.8" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 933.51 643.8391)" class="st8 st3 st22">18</text>
+</g>
+<g id="p9" class="st19">
+	<ellipse id="p4-7_5_" class="st20" cx="545.5" cy="534" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 541.5453 538.6828)" class="st8 st3 st21">9</text>
+</g>
+<g id="p8" class="st19">
+	<ellipse id="p4-7_4_" class="st20" cx="626.5" cy="513.2" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 622.6792 517.887)" class="st8 st3 st21">8</text>
+</g>
+<g id="p7" class="st19">
+	<ellipse id="p4-7_3_" class="st20" cx="497.5" cy="486" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 493.5169 490.7147)" class="st8 st3 st21">7</text>
+</g>
+<g id="p4" class="st19">
+	
+		<ellipse id="p4-7" transform="matrix(0.3162 -0.9487 0.9487 0.3162 350.7455 835.0109)" class="st20" cx="754.6" cy="174.2" rx="8.8" ry="8.8"/>
+	<text transform="matrix(1 0 0 1 750.682 178.9917)" class="st8 st3 st21">4</text>
+</g>
+<g id="p3" class="st19">
+	<circle id="p4-9" class="st20" cx="776.1" cy="180.3" r="8.8"/>
+	<text transform="matrix(1 0 0 1 772.4137 185.234)" class="st8 st3 st21">3</text>
+</g>
+<g id="p1" class="st19">
+	<circle class="st20" cx="642.2" cy="489.9" r="8.8"/>
+	<text transform="matrix(1 0 0 1 638.3867 494.619)" class="st8 st3 st21">1</text>
 </g>
 <g id="persona">
-	<path class="st26" d="M8.4,17.5H7C6.9,17.8,6.7,18,6.5,18H6.3v1.2h4.9V18H8.9C8.6,18,8.4,17.8,8.4,17.5z"/>
-	<rect x="6.3" y="13.6" class="st26" width="5" height="1.2"/>
-	<path class="st27" d="M10.8,20.3H6.6c0.4,0.7,1.2,1.2,2,1.2C9.5,21.5,10.3,21.1,10.8,20.3z"/>
-	<path class="st27" d="M8.4,17.5c0-0.3,0.2-0.5,0.5-0.5h2.3v-1.2H6.3V17h0.1c0.3,0,0.5,0.2,0.5,0.5H8.4z"/>
-	<path class="st27" d="M7,11.4c-0.3,0-0.6,0.2-0.6,0.6v0.1l0,0v0.5h5V12c-0.1-0.4-0.4-0.6-0.8-0.6H7z"/>
-	<path class="st28" d="M6.2,6.4C6.2,7.8,7.3,9,8.8,9s2.6-1.1,2.6-2.6c-1.2-0.1-2.2-0.4-3.2-1C7.7,5.9,7,6.3,6.2,6.4z"/>
-	<path class="st29" d="M7,10.4h3.6c0.5,0,0.9,0.2,1.3,0.5h1.3v-5c0-2.4-1.9-4.3-4.3-4.4l0,0H8.8c-0.5,0-1,0.1-1.4,0.3
+	<path class="st23" d="M8.4,17.5H7C6.9,17.8,6.7,18,6.5,18H6.3v1.2h4.9V18H8.9C8.6,18,8.4,17.8,8.4,17.5z"/>
+	<rect x="6.3" y="13.6" class="st23" width="5" height="1.2"/>
+	<path class="st24" d="M10.8,20.3H6.6c0.4,0.7,1.2,1.2,2,1.2C9.5,21.5,10.3,21.1,10.8,20.3z"/>
+	<path class="st24" d="M8.4,17.5c0-0.3,0.2-0.5,0.5-0.5h2.3v-1.2H6.3V17h0.1c0.3,0,0.5,0.2,0.5,0.5H8.4z"/>
+	<path class="st24" d="M7,11.4c-0.3,0-0.6,0.2-0.6,0.6v0.1l0,0v0.5h5V12c-0.1-0.4-0.4-0.6-0.8-0.6H7z"/>
+	<path class="st25" d="M6.2,6.4C6.2,7.8,7.3,9,8.8,9s2.6-1.1,2.6-2.6c-1.2-0.1-2.2-0.4-3.2-1C7.7,5.9,7,6.3,6.2,6.4z"/>
+	<path class="st26" d="M7,10.4h3.6c0.5,0,0.9,0.2,1.3,0.5h1.3v-5c0-2.4-1.9-4.3-4.3-4.4l0,0H8.8c-0.5,0-1,0.1-1.4,0.3
 		C7.5,2.6,7.9,3.4,8.6,4l0.1,0.1c0.8,0.8,2,1.3,3.1,1.3c0.2,0,0.5,0.1,0.5,0.4v0.1c0,2-1.6,3.6-3.6,3.6S5.2,7.9,5.2,5.9
 		c0-0.1,0-0.3,0.1-0.4c0.1,0,0.3-0.1,0.4-0.1c0.7,0,1.5-0.3,1.9-0.9C7,3.9,6.6,3.1,6.3,2.3C5.2,3.1,4.5,4.5,4.4,5.9v4.9h1.3
 		C6,10.4,6.5,10.3,7,10.4z"/>
-	<path class="st30" d="M4.4,5.9c0-1.4,0.7-2.8,1.9-3.6C6.6,3.1,7,3.9,7.6,4.5C7.1,5,6.4,5.4,5.7,5.4c-0.1,0-0.3,0-0.4,0.1
+	<path class="st27" d="M4.4,5.9c0-1.4,0.7-2.8,1.9-3.6C6.6,3.1,7,3.9,7.6,4.5C7.1,5,6.4,5.4,5.7,5.4c-0.1,0-0.3,0-0.4,0.1
 		S5.2,5.8,5,5.9c0,2,1.6,3.6,3.6,3.6s3.6-1.6,3.6-3.6l0,0l0,0c0-0.1,0-0.3-0.1-0.4s-0.2-0.1-0.3-0.1c-1.1,0-2.3-0.4-3.2-1.2L8.5,4.1
 		c-0.6-0.6-1-1.4-1.3-2.2c2.3-0.8,4.8,0.3,5.6,2.6C12.9,5,13,5.4,13.1,5.9v4.9c0,0.3,0.2,0.6,0.5,0.6s0.5-0.2,0.5-0.5v-5
 		c0-3-2.4-5.4-5.4-5.4l0,0C8,0.5,7.2,0.7,6.5,1l0,0C4.6,1.9,3.3,3.8,3.3,5.9v4.9c0,0.3,0.2,0.6,0.6,0.6l0,0H4c0.3,0,0.5-0.2,0.5-0.5
 		L4.4,5.9z M11.2,6.4C11.2,7.8,10,9,8.6,9S6.1,7.8,6.1,6.4C7,6.3,7.8,5.9,8.4,5.2C9.2,5.9,10.2,6.3,11.2,6.4z"/>
-	<path class="st30" d="M15.3,15.5c-0.5-1.6-1.6-3-3.1-3.8c0-0.3-0.2-0.6-0.4-0.8c-0.3-0.4-0.8-0.5-1.3-0.5H6.8
+	<path class="st27" d="M15.3,15.5c-0.5-1.6-1.6-3-3.1-3.8c0-0.3-0.2-0.6-0.4-0.8c-0.3-0.4-0.8-0.5-1.3-0.5H6.8
 		c-0.5,0-0.9,0.2-1.3,0.5l-0.4,0.8c-3.2,1.8-4.4,5.7-2.7,9C2.5,20.9,2.7,21,2.9,21h0.3c0.3-0.1,0.4-0.5,0.3-0.8
 		C2.2,17.7,3,14.6,5.3,13v6.1c0,0.9,0.3,1.8,0.9,2.4l0.5,9L5.2,31c-0.2,0.1-0.4,0.4-0.4,0.6l0,0C4.9,31.9,5,32,5.3,32h0.1l1.9-0.6
 		c0.3-0.2,0.4-0.3,0.4-0.6l-0.5-8.6c0.9,0.4,2,0.4,2.9,0l-0.5,8.6c0,0.3,0.1,0.5,0.4,0.5l1.9,0.6H12c0.3,0,0.4-0.1,0.5-0.4
@@ -614,14 +516,14 @@
 		v0.5h-5V12c0-0.3,0.2-0.6,0.6-0.6l0,0h3.7C10.9,11.4,11.2,11.6,11.2,12z M6.6,20.3h4.2c-0.8,1.1-2.3,1.5-3.5,0.8L6.6,20.3z"/>
 </g>
 <g id="barco">
-	<path id="trazado1" class="st31" d="M40.3,29.4L28.4,41.3L16.5,29.4c-6.6-6.6-6.6-17.2,0-23.8l0,0c6.6-6.5,17.2-6.5,23.7,0l0,0
+	<path id="trazado1" class="st28" d="M40.3,29.4L28.4,41.3L16.5,29.4c-6.6-6.6-6.6-17.2,0-23.8l0,0c6.6-6.5,17.2-6.5,23.7,0l0,0
 		C46.8,12.2,46.8,22.8,40.3,29.4z"/>
-	<path id="Trazado_2" class="st32" d="M43.1,17.7c0,3.1-1,6.1-2.7,8.6c-1.7,2.4-4.2,4.3-6.9,5.3c-2.9,1.1-6.2,1.2-9.2,0.4
+	<path id="Trazado_2" class="st29" d="M43.1,17.7c0,3.1-1,6.1-2.7,8.6c-1.7,2.4-4.2,4.3-6.9,5.3c-2.9,1.1-6.2,1.2-9.2,0.4
 		c-2.9-0.8-5.5-2.5-7.4-4.8S13.8,22,13.5,19c-0.3-3.1,0.5-6.2,2-8.8s3.8-4.6,6.5-5.9c2.8-1.3,6-1.7,9-1.1s5.7,2.1,7.8,4.2
 		c2.1,2.2,3.5,4.9,4,7.9C43,16,43.1,16.8,43.1,17.7c0,0.5,0.7,0.5,0.7,0c0-3.1-1-6.2-2.7-8.8c-1.7-2.5-4.2-4.5-7.1-5.6
 		c-2.9-1.2-6.2-1.4-9.3-0.7c-3,0.7-5.7,2.3-7.8,4.5c-2.1,2.3-3.5,5.1-4,8.2c-0.5,3.2,0,6.4,1.4,9.3c1.3,2.7,3.5,5,6.1,6.6
 		c2.7,1.6,5.9,2.3,9,2.1s6.1-1.4,8.5-3.4c2.4-1.9,4.2-4.5,5.1-7.4c0.5-1.5,0.7-3.1,0.7-4.7C43.8,17.2,43.1,17.2,43.1,17.7z"/>
-	<path id="Trazado_3" class="st32" d="M35.3,19.1c-0.6,1.6-1.3,3.1-1.9,4.7c0,0.1-0.1,0.2-0.1,0.3c0.2-0.1,0.4-0.1,0.5-0.2
+	<path id="Trazado_3" class="st29" d="M35.3,19.1c-0.6,1.6-1.3,3.1-1.9,4.7c0,0.1-0.1,0.2-0.1,0.3c0.2-0.1,0.4-0.1,0.5-0.2
 		c-0.1,0-0.2-0.1-0.3-0.2s0,0,0,0c-0.1,0-0.1-0.1-0.2-0.1c-0.2-0.1-0.5-0.2-0.7-0.3c-0.9-0.3-1.8-0.1-2.5,0.4
 		c-0.4,0.3-0.8,0.5-1.2,0.5c-0.3,0-0.6,0-1-0.2c0,0-0.1,0,0,0h-0.1c0,0-0.1,0-0.1-0.1c-0.1,0-0.1-0.1-0.2-0.1c-0.1-0.1,0.2,0.1,0,0
 		l-0.1-0.1c-0.4-0.3-0.9-0.4-1.4-0.5c-0.3,0-0.7,0-1,0.1c-0.4,0.1-0.8,0.4-1.2,0.6c0.2,0.1,0.4,0.1,0.5,0.2
@@ -633,7 +535,7 @@
 		c0.5,0.3,1.1,0.5,1.7,0.5c0.5,0,0.9-0.2,1.4-0.4c0.2-0.1,0.4-0.3,0.7-0.4c0.2-0.1,0.4-0.2,0.7-0.2c0.2,0,0.5,0,0.7,0
 		c0.1,0,0.2,0.1,0.3,0.1h0.1c-0.1,0,0.1,0,0.1,0c0.1,0.1,0.2,0.1,0.3,0.2s0,0,0,0c0.1,0.1,0.2,0.2,0.4,0.2c0.2,0.1,0.4,0,0.5-0.2
 		c0.6-1.6,1.3-3.1,1.9-4.7c0-0.1,0.1-0.2,0.1-0.3c0.1-0.2-0.1-0.4-0.3-0.4C35.6,18.8,35.4,18.9,35.3,19.1z"/>
-	<path id="Trazado_4" class="st32" d="M36.2,17.3c-0.3,0.6-0.6,1.1-0.8,1.7c0.1-0.1,0.3-0.1,0.4-0.2c-1.6-0.5-3.2-1-4.8-1.5
+	<path id="Trazado_4" class="st29" d="M36.2,17.3c-0.3,0.6-0.6,1.1-0.8,1.7c0.1-0.1,0.3-0.1,0.4-0.2c-1.6-0.5-3.2-1-4.8-1.5
 		c-0.7-0.2-1.3-0.4-2-0.6c-0.2,0-0.3,0-0.5,0.1c-0.3,0.1-0.7,0.2-1,0.3c-1.8,0.6-3.7,1.1-5.5,1.7c-0.1,0-0.1,0-0.2,0.1
 		c0.1,0.1,0.3,0.1,0.4,0.2c-0.3-0.6-0.6-1.1-0.8-1.7c-0.1,0.2-0.1,0.4-0.2,0.5c1.5-0.5,3-1,4.6-1.5c1-0.3,2.1-0.7,3.1-1
 		c-0.1,0-0.1,0-0.2,0c1.5,0.5,3.1,1,4.6,1.5c1,0.3,2.1,0.7,3.1,1c0.4,0.1,0.6-0.6,0.2-0.7c-1.5-0.5-3.1-1-4.6-1.5
@@ -641,18 +543,18 @@
 		c-0.2,0.1-0.3,0.3-0.2,0.5c0.3,0.6,0.6,1.1,0.8,1.7c0.1,0.1,0.3,0.2,0.4,0.2c1.6-0.5,3.2-1,4.8-1.5c0.7-0.2,1.4-0.4,2.1-0.6
 		c-0.1,0-0.1,0-0.2,0c1.6,0.5,3.2,1,4.8,1.5c0.7,0.2,1.4,0.4,2.1,0.6c0.1,0,0.3,0,0.4-0.2c0.3-0.6,0.6-1.1,0.8-1.7
 		c0.1-0.2,0-0.4-0.1-0.5C36.6,17.1,36.3,17.1,36.2,17.3z"/>
-	<path id="Trazado_5" class="st32" d="M33.7,11.5c0.2,1.7,0.4,3.3,0.5,5c0,0.1,0,0.2,0,0.3c0.2-0.1,0.3-0.2,0.5-0.3
+	<path id="Trazado_5" class="st29" d="M33.7,11.5c0.2,1.7,0.4,3.3,0.5,5c0,0.1,0,0.2,0,0.3c0.2-0.1,0.3-0.2,0.5-0.3
 		c-1.6-0.5-3.3-1.1-4.9-1.6c-0.3-0.1-0.5-0.2-0.8-0.3c-0.2-0.1-0.3,0-0.5,0.1c-0.9,0.3-1.8,0.6-2.6,0.9c-1,0.3-1.9,0.6-2.9,0.9
 		c0.2,0.1,0.3,0.2,0.5,0.3c0.2-1.7,0.4-3.3,0.5-5c0-0.1,0-0.2,0-0.3c-0.1,0.1-0.2,0.2-0.4,0.4c1.4,0,2.8,0,4.3,0c1.9,0,3.8,0,5.7,0
 		c0.1,0,0.3,0,0.4,0c0.5,0,0.5-0.7,0-0.7c-1.4,0-2.8,0-4.3,0c-1.9,0-3.8,0-5.7,0c-0.1,0-0.3,0-0.4,0c-0.2,0-0.3,0.2-0.4,0.4
 		c-0.2,1.7-0.4,3.3-0.5,5c0,0.1,0,0.2,0,0.3c0,0.2,0.2,0.4,0.5,0.3c1.6-0.5,3.3-1.1,4.9-1.6c0.3-0.1,0.6-0.2,0.9-0.3
 		c-0.1,0-0.1,0-0.2,0c1.6,0.5,3.3,1.1,4.9,1.6c0.3,0.1,0.6,0.2,0.9,0.3c0.2,0.1,0.5-0.1,0.5-0.3c-0.2-1.7-0.4-3.3-0.5-5
 		c0-0.1,0-0.2,0-0.3c0-0.2-0.1-0.4-0.4-0.4C33.8,11.2,33.6,11.3,33.7,11.5z"/>
-	<path id="Trazado_6" class="st32" d="M29.7,11.2c-0.6,0-1.1,0-1.7,0c0.1,0.1,0.2,0.2,0.4,0.4c0-0.8,0-1.6,0-2.5
+	<path id="Trazado_6" class="st29" d="M29.7,11.2c-0.6,0-1.1,0-1.7,0c0.1,0.1,0.2,0.2,0.4,0.4c0-0.8,0-1.6,0-2.5
 		c-0.1,0.1-0.2,0.2-0.4,0.4c0.6,0,1.1,0,1.7,0c-0.2-0.2-0.3-0.3-0.4-0.4c0,0.8,0,1.6,0,2.5c0,0.5,0.7,0.5,0.7,0c0-0.8,0-1.6,0-2.5
 		c0-0.2-0.2-0.4-0.4-0.4c-0.6,0-1.1,0-1.7,0c-0.2,0-0.4,0.2-0.4,0.4c0,0.8,0,1.6,0,2.5c0,0.2,0.2,0.4,0.4,0.4c0.6,0,1.1,0,1.7,0
 		C30.1,11.9,30.1,11.2,29.7,11.2z"/>
-	<path id="Trazado_7" class="st32" d="M36.2,23.7c-0.4,0.3-0.8,0.4-1.2,0.5c-0.3,0-0.6,0-0.9-0.2c-0.1,0,0.1,0,0,0H34
+	<path id="Trazado_7" class="st29" d="M36.2,23.7c-0.4,0.3-0.8,0.4-1.2,0.5c-0.3,0-0.6,0-0.9-0.2c-0.1,0,0.1,0,0,0H34
 		c-0.1,0-0.2-0.1-0.2-0.1s-0.2-0.2-0.1-0.1c0,0-0.1,0-0.1-0.1c-0.1-0.1-0.3-0.2-0.5-0.3c-0.8-0.3-1.6-0.4-2.4,0
 		c-0.5,0.2-0.8,0.5-1.3,0.7c-0.4,0.1-0.7,0.1-1,0c-0.1,0-0.1,0-0.2-0.1h-0.1c0,0-0.1,0,0,0c-0.1,0-0.2-0.1-0.3-0.2
 		c-0.1,0-0.1-0.1-0.2-0.1c0.1,0.1,0,0,0,0c-0.4-0.3-1-0.5-1.5-0.5s-0.9,0.1-1.3,0.3c-0.2,0.1-0.4,0.2-0.7,0.4
@@ -662,66 +564,66 @@
 		c0,0-0.1-0.1-0.1,0c0.1,0.1,0.3,0.2,0.4,0.3c0.7,0.3,1.5,0.4,2.2,0.2c0.2-0.1,0.5-0.2,0.7-0.3c0.2-0.1,0.4-0.3,0.7-0.4
 		c0.4-0.1,0.8-0.2,1.1-0.1s0.5,0.1,0.7,0.3c0.1,0,0.1,0.1,0.2,0.1l0,0c-0.1-0.1,0,0,0,0c0.6,0.4,1.4,0.6,2.1,0.5
 		c0.5-0.1,0.9-0.3,1.3-0.5c0.2-0.1,0.2-0.3,0.1-0.5C36.6,23.7,36.4,23.6,36.2,23.7L36.2,23.7z"/>
-	<path id="Trazado_8" class="st32" d="M25.2,13.3L25.2,13.3L25.2,13.3L25.2,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
+	<path id="Trazado_8" class="st29" d="M25.2,13.3L25.2,13.3L25.2,13.3L25.2,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
 		l0,0h0.1l0,0h0.1l0,0c0,0,0,0.1,0,0v0.1l0,0v0.1l0,0v0.1l0,0v0.1l0,0c0,0-0.1,0,0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0
 		c0,0,0-0.1,0,0C25.2,13.4,25.2,13.4,25.2,13.3C25.2,13.4,25.2,13.4,25.2,13.3C25.2,13.4,25.2,13.4,25.2,13.3L25.2,13.3
 		c0,0.2,0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.3,0.1-0.4,0.1C25,13,25,13.1,24.9,13.3
 		c0,0.1,0.1,0.3,0.1,0.4c0.1,0.1,0.2,0.1,0.4,0.2c0.1,0,0.3-0.1,0.4-0.1c0.1-0.1,0.1-0.2,0.2-0.4c0-0.2-0.2-0.4-0.4-0.4
 		C25.4,13,25.2,13.1,25.2,13.3z"/>
-	<path id="Trazado_9" class="st32" d="M27.5,13.3L27.5,13.3L27.5,13.3L27.5,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
+	<path id="Trazado_9" class="st29" d="M27.5,13.3L27.5,13.3L27.5,13.3L27.5,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
 		l0,0h0.1l0,0h0.1l0,0c0,0,0,0.1,0,0v0.1l0,0v0.1l0,0v0.1l0,0v0.1l0,0c0,0-0.1,0,0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0
 		c0,0,0-0.1,0,0C27.5,13.4,27.5,13.4,27.5,13.3C27.5,13.4,27.5,13.4,27.5,13.3C27.5,13.4,27.5,13.4,27.5,13.3L27.5,13.3
 		c0,0.2,0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.3,0.1-0.4,0.1c-0.1,0.1-0.1,0.2-0.2,0.4
 		c0,0.1,0.1,0.3,0.1,0.4c0.1,0.1,0.2,0.1,0.4,0.2c0.1,0,0.3-0.1,0.4-0.1c0.1-0.1,0.1-0.2,0.2-0.4c0-0.2-0.2-0.4-0.4-0.4
 		C27.6,13,27.5,13.1,27.5,13.3z"/>
-	<path id="Trazado_10" class="st32" d="M29.7,13.3L29.7,13.3L29.7,13.3L29.7,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
+	<path id="Trazado_10" class="st29" d="M29.7,13.3L29.7,13.3L29.7,13.3L29.7,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1
 		l0,0H30l0,0h0.1l0,0c0,0,0,0.1,0,0v0.1l0,0v0.1l0,0v0.1l0,0v0.1l0,0c0,0-0.1,0,0,0H30l0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0
 		c0,0,0-0.1,0,0C29.7,13.4,29.7,13.4,29.7,13.3C29.7,13.4,29.7,13.4,29.7,13.3C29.7,13.4,29.7,13.4,29.7,13.3L29.7,13.3
 		c0,0.2,0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.3,0.1-0.4,0.1c-0.1,0.1-0.1,0.2-0.2,0.4
 		c0,0.1,0.1,0.3,0.1,0.4c0.1,0.1,0.2,0.1,0.4,0.2c0.1,0,0.3-0.1,0.4-0.1c0.1-0.1,0.1-0.2,0.2-0.4c0-0.2-0.2-0.4-0.4-0.4
 		C29.9,13,29.7,13.1,29.7,13.3z"/>
-	<path id="Trazado_11" class="st32" d="M32,13.3L32,13.3L32,13.3L32,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1l0,0h0.1
+	<path id="Trazado_11" class="st29" d="M32,13.3L32,13.3L32,13.3L32,13.3c0-0.1,0-0.1,0-0.1l0,0c0,0,0.1,0,0,0h0.1l0,0h0.1l0,0h0.1
 		l0,0h0.1l0,0c0,0,0,0.1,0,0v0.1l0,0v0.1l0,0v0.1l0,0v0.1l0,0c0,0-0.1,0,0,0h-0.1l0,0h-0.1l0,0h-0.1l0,0H32l0,0c0,0,0-0.1,0,0
 		C32,13.4,32,13.4,32,13.3C32,13.4,32,13.4,32,13.3C32,13.4,32,13.4,32,13.3L32,13.3c0,0.2,0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4
 		c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.3,0.1-0.4,0.1c-0.1,0.1-0.1,0.2-0.2,0.4c0,0.1,0.1,0.3,0.1,0.4c0.1,0.1,0.2,0.1,0.4,0.2
 		c0.1,0,0.3-0.1,0.4-0.1c0.1-0.1,0.1-0.2,0.2-0.4c0-0.2-0.2-0.4-0.4-0.4C32.1,13,32,13.1,32,13.3z"/>
-	<path id="Trazado_12" class="st32" d="M33.9,25.6c-0.1,0-0.2-0.1-0.3-0.2s0,0,0,0c-0.1,0-0.1-0.1-0.2-0.1c-0.2-0.1-0.5-0.2-0.7-0.3
+	<path id="Trazado_12" class="st29" d="M33.9,25.6c-0.1,0-0.2-0.1-0.3-0.2s0,0,0,0c-0.1,0-0.1-0.1-0.2-0.1c-0.2-0.1-0.5-0.2-0.7-0.3
 		c-0.9-0.3-1.8-0.1-2.5,0.4c-0.4,0.3-0.8,0.5-1.2,0.5c-0.3,0-0.6,0-1-0.2c0,0-0.1,0,0,0h-0.1c0,0-0.1,0-0.1-0.1
 		c-0.1,0-0.1-0.1-0.2-0.1c-0.1-0.1,0.2,0.1,0,0l-0.1-0.1c-0.4-0.3-0.9-0.4-1.4-0.5c-0.3,0-0.7,0-1,0.1c-0.4,0.1-0.8,0.4-1.2,0.6
 		c-0.4,0.2,0,0.8,0.4,0.6c0.2-0.1,0.4-0.3,0.6-0.4s0.4-0.2,0.7-0.2c0.3-0.1,0.7,0,1,0.1c0.1,0,0.1,0,0.2,0.1c0.1,0-0.1,0,0,0h0.1
 		c0.1,0,0.2,0.1,0.3,0.2c0,0,0.2,0.1,0,0l0.1,0.1c0.5,0.3,1.1,0.5,1.7,0.5c0.5,0,0.9-0.2,1.4-0.4c0.2-0.1,0.4-0.3,0.7-0.4
 		c0.2-0.1,0.4-0.2,0.7-0.2c0.2,0,0.5,0,0.7,0c0.1,0,0.2,0.1,0.3,0.1h0.1c-0.1,0,0.1,0,0.1,0c0.1,0.1,0.2,0.1,0.3,0.2s0,0,0,0
 		c0.1,0.1,0.2,0.2,0.4,0.2C33.9,26.4,34.3,25.8,33.9,25.6L33.9,25.6z"/>
-	<path id="Trazado_13" class="st32" d="M28.5,17.1c0,1.7,0,3.3,0,5c0,0.8,0,1.5,0,2.3c0,0.5,0.7,0.5,0.7,0c0-1.7,0-3.3,0-5
+	<path id="Trazado_13" class="st29" d="M28.5,17.1c0,1.7,0,3.3,0,5c0,0.8,0,1.5,0,2.3c0,0.5,0.7,0.5,0.7,0c0-1.7,0-3.3,0-5
 		c0-0.8,0-1.5,0-2.3C29.2,16.6,28.5,16.6,28.5,17.1L28.5,17.1z"/>
 </g>
 <g id="avion">
 	<g>
-		<path class="st33" d="M6.1,12.2c-0.8,0-1.4,0.6-1.4,1.4v2c0,0.8,0.6,1.4,1.4,1.4s1.4-0.6,1.4-1.4v-2C7.6,12.9,6.9,12.2,6.1,12.2z"
+		<path class="st30" d="M6.1,12.2c-0.8,0-1.4,0.6-1.4,1.4v2c0,0.8,0.6,1.4,1.4,1.4s1.4-0.6,1.4-1.4v-2C7.6,12.9,6.9,12.2,6.1,12.2z"
 			/>
-		<path class="st33" d="M9.3,10.8c-0.6,0-1,0.5-1,1V14c0,0.6,0.5,1,1,1c0.6,0,1-0.5,1-1v-2.1C10.4,11.3,9.9,10.8,9.3,10.8z"/>
+		<path class="st30" d="M9.3,10.8c-0.6,0-1,0.5-1,1V14c0,0.6,0.5,1,1,1c0.6,0,1-0.5,1-1v-2.1C10.4,11.3,9.9,10.8,9.3,10.8z"/>
 	</g>
-	<path class="st34" d="M15.5,24.9c0,0-4.2,4-4.6,4.5s-0.2,2,0,2.6c0.2,0.7,5.3-3.3,5.3-3.3L15.5,24.9z"/>
-	<path class="st34" d="M15.1,9.1c0,0-12.4,7.8-12.9,8.1s-0.5,2.7-0.5,2.9c0.1,0.3,13.8-3.6,13.8-3.6L15.1,9.1z"/>
-	<path class="st35" d="M17.9,0v30.6c0,0-1.4-0.2-2.3-1.3c-0.9-1.1-1.1-23.4-1.2-24.5S16.3,0,17.9,0z"/>
-	<path class="st34" d="M17.9,25.8v6.3c0,0-0.7,0-1.3,0c-0.5,0,0.2-5.6,0.2-5.9C16.9,25.9,17.5,25.6,17.9,25.8z"/>
-	<path class="st36" d="M17.9,2.7c-0.9,0-1.8,0.8-2.1,1.6s-0.1,0.8,0.1,0.9c0.3,0,1.1-1.2,2-1.2C17.9,3.9,17.9,3.6,17.9,2.7z"/>
+	<path class="st31" d="M15.5,24.9c0,0-4.2,4-4.6,4.5s-0.2,2,0,2.6c0.2,0.7,5.3-3.3,5.3-3.3L15.5,24.9z"/>
+	<path class="st31" d="M15.1,9.1c0,0-12.4,7.8-12.9,8.1s-0.5,2.7-0.5,2.9c0.1,0.3,13.8-3.6,13.8-3.6L15.1,9.1z"/>
+	<path class="st32" d="M17.9,0v30.6c0,0-1.4-0.2-2.3-1.3c-0.9-1.1-1.1-23.4-1.2-24.5S16.3,0,17.9,0z"/>
+	<path class="st31" d="M17.9,25.8v6.3c0,0-0.7,0-1.3,0c-0.5,0,0.2-5.6,0.2-5.9C16.9,25.9,17.5,25.6,17.9,25.8z"/>
+	<path class="st33" d="M17.9,2.7c-0.9,0-1.8,0.8-2.1,1.6s-0.1,0.8,0.1,0.9c0.3,0,1.1-1.2,2-1.2C17.9,3.9,17.9,3.6,17.9,2.7z"/>
 	<g>
-		<path class="st37" d="M29.7,12.2c0.8,0,1.4,0.6,1.4,1.4v2c0,0.8-0.6,1.4-1.4,1.4s-1.4-0.6-1.4-1.4v-2
+		<path class="st34" d="M29.7,12.2c0.8,0,1.4,0.6,1.4,1.4v2c0,0.8-0.6,1.4-1.4,1.4s-1.4-0.6-1.4-1.4v-2
 			C28.2,12.9,28.9,12.2,29.7,12.2z"/>
-		<path class="st37" d="M26.5,10.8c0.6,0,1,0.5,1,1V14c0,0.6-0.5,1-1,1c-0.6,0-1-0.5-1-1v-2.1C25.4,11.3,25.9,10.8,26.5,10.8z"/>
+		<path class="st34" d="M26.5,10.8c0.6,0,1,0.5,1,1V14c0,0.6-0.5,1-1,1c-0.6,0-1-0.5-1-1v-2.1C25.4,11.3,25.9,10.8,26.5,10.8z"/>
 	</g>
-	<path class="st38" d="M20.3,24.9c0,0,4.2,4,4.6,4.5s0.2,2,0,2.6c-0.2,0.7-5.2-3.3-5.2-3.3L20.3,24.9z"/>
-	<path class="st38" d="M20.7,9.1c0,0,12.4,7.8,12.9,8.1s0.5,2.6,0.4,2.9s-13.8-3.6-13.8-3.6L20.7,9.1z"/>
-	<path class="st34" d="M17.9,0v30.6c0,0,1.4-0.2,2.3-1.3c0.9-1.1,1.1-23.4,1.2-24.5S19.5,0,17.9,0z"/>
-	<path class="st38" d="M17.9,25.8v6.3c0,0,0.7,0,1.3,0c0.5,0-0.2-5.6-0.2-5.9C18.9,25.9,18.3,25.6,17.9,25.8z"/>
-	<path class="st36" d="M17.9,2.7c0.9,0,1.8,0.8,2.1,1.6c0.3,0.8,0.1,0.8-0.1,0.9c-0.3,0-1.1-1.2-2-1.2C17.9,3.9,17.9,3.6,17.9,2.7z"
+	<path class="st35" d="M20.3,24.9c0,0,4.2,4,4.6,4.5s0.2,2,0,2.6c-0.2,0.7-5.2-3.3-5.2-3.3L20.3,24.9z"/>
+	<path class="st35" d="M20.7,9.1c0,0,12.4,7.8,12.9,8.1s0.5,2.6,0.4,2.9s-13.8-3.6-13.8-3.6L20.7,9.1z"/>
+	<path class="st31" d="M17.9,0v30.6c0,0,1.4-0.2,2.3-1.3c0.9-1.1,1.1-23.4,1.2-24.5S19.5,0,17.9,0z"/>
+	<path class="st35" d="M17.9,25.8v6.3c0,0,0.7,0,1.3,0c0.5,0-0.2-5.6-0.2-5.9C18.9,25.9,18.3,25.6,17.9,25.8z"/>
+	<path class="st33" d="M17.9,2.7c0.9,0,1.8,0.8,2.1,1.6c0.3,0.8,0.1,0.8-0.1,0.9c-0.3,0-1.1-1.2-2-1.2C17.9,3.9,17.9,3.6,17.9,2.7z"
 		/>
 </g>
 <g id="repeat">
-	<path class="st39" d="M1135.5,42c0-13.3,10.8-24.2,24.2-24.2c13.3,0,24.2,10.8,24.2,24.2c0,13.3-10.8,24.2-24.2,24.2
+	<path class="st36" d="M1135.5,42c0-13.3,10.8-24.2,24.2-24.2c13.3,0,24.2,10.8,24.2,24.2c0,13.3-10.8,24.2-24.2,24.2
 		S1135.5,55.4,1135.5,42z"/>
-	<path class="st7" d="M1168.5,31.6c-2-0.6-4.6-0.2-6.7-0.2c-1.7,0-3.5,0-5.2,0c0-1,0-1.9,0-2.9c0-0.3-0.1-0.5-0.3-0.6
+	<path class="st8" d="M1168.5,31.6c-2-0.6-4.6-0.2-6.7-0.2c-1.7,0-3.5,0-5.2,0c0-1,0-1.9,0-2.9c0-0.3-0.1-0.5-0.3-0.6
 		c-0.2-0.2-0.5-0.3-0.8-0.1c-2.8,1.8-5.5,3.5-8.3,5.3c-0.5,0.3-0.5,0.9,0,1.2c2.8,1.8,5.5,3.5,8.3,5.3c0.5,0.3,1.1-0.1,1.1-0.6
 		c0-1.1,0-2.3,0-3.4c3.4,0,6.7,0,10.1,0c2.2,0,2.7,1.6,2.7,3.4c0,2.2,0,4.4,0,6.7c0,1.9-1.4,2.7-3.1,2.7c-2,0-4,0-5.9,0
 		c-3.8,0-7.7,0-11.5,0c-2.8,0-2.8,4.3,0,4.3c4.4,0,8.8,0,13.3,0c1.6,0,3.2,0,4.8,0c3.7,0,6.7-3.1,6.7-6.8
